@@ -1,0 +1,66 @@
+Bird id,treatment,infection
+1,Control group,Malaria
+2,Control group,Malaria
+3,Control group,Malaria
+4,Control group,Malaria
+5,Control group,Malaria
+6,Control group,Malaria
+7,Control group,Malaria
+8,Control group,No malaria
+9,Control group,No malaria
+10,Control group,No malaria
+11,Control group,No malaria
+12,Control group,No malaria
+13,Control group,No malaria
+14,Control group,No malaria
+15,Control group,No malaria
+16,Control group,No malaria
+17,Control group,No malaria
+18,Control group,No malaria
+19,Control group,No malaria
+20,Control group,No malaria
+21,Control group,No malaria
+22,Control group,No malaria
+23,Control group,No malaria
+24,Control group,No malaria
+25,Control group,No malaria
+26,Control group,No malaria
+27,Control group,No malaria
+28,Control group,No malaria
+29,Control group,No malaria
+30,Control group,No malaria
+31,Control group,No malaria
+32,Control group,No malaria
+33,Control group,No malaria
+34,Control group,No malaria
+35,Control group,No malaria
+36,Egg-removal group,Malaria
+37,Egg-removal group,Malaria
+38,Egg-removal group,Malaria
+39,Egg-removal group,Malaria
+40,Egg-removal group,Malaria
+41,Egg-removal group,Malaria
+42,Egg-removal group,Malaria
+43,Egg-removal group,Malaria
+44,Egg-removal group,Malaria
+45,Egg-removal group,Malaria
+46,Egg-removal group,Malaria
+47,Egg-removal group,Malaria
+48,Egg-removal group,Malaria
+49,Egg-removal group,Malaria
+50,Egg-removal group,Malaria
+51,Egg-removal group,No malaria
+52,Egg-removal group,No malaria
+53,Egg-removal group,No malaria
+54,Egg-removal group,No malaria
+55,Egg-removal group,No malaria
+56,Egg-removal group,No malaria
+57,Egg-removal group,No malaria
+58,Egg-removal group,No malaria
+59,Egg-removal group,No malaria
+60,Egg-removal group,No malaria
+61,Egg-removal group,No malaria
+62,Egg-removal group,No malaria
+63,Egg-removal group,No malaria
+64,Egg-removal group,No malaria
+65,Egg-removal group,No malaria
