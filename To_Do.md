@@ -5,6 +5,13 @@
 ### Check set up for notebooks 
     Catherine to discuss with Nick and Graeme and enlist a BTO contact who knows the set up.
 
+### Look through other examples of courses
+    See files uploaded by Graeme
+    Mine Cetinkaya-Rundel's course (she's left now)
+        https://datasciencebox.org/
+    Charlotte Desvages MSc intro course
+         https://github.com/pypr-2122/table-of-contents/
+
 ### Divide up production of videos and notebooks
 Resources needed:
     Video to go over pricipals and illustrate the commands.
