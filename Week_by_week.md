@@ -3,6 +3,7 @@
 
 ### Week 1: Introduction to biological research questions and real-world datasets.  
 Short recorded lecture from each flavour lead about how data analysis is used in their field.
+Recorded lecture on data sources and data protection
 Outside exercise measuring tree diameters in small groups.  
 Inside workshop entrying the data, summarising by group and comparing between groups.   Noteing noise and error.  
 Weekly quiz  topics: error, summary, signficant differences  
