@@ -1,4 +1,3 @@
-
 ### Expand on content for each week
     Please add comments to the Week_by_week document
 
@@ -23,6 +22,9 @@ Resources needed:
 Lead for field work:  Patrick?
 Videos: 
     Introduction to course Catherine
+    Introduction to data analysis in protien structure - Iain
+    Introduction to data analysis in transcriptomics - Edward
+    Introduction to data analysis in plant surveys - Catherine (or RBGE person I can ask)
     Data sources and data protection Edward?
 Classes:
     Class 1 notebook Catherine
@@ -46,7 +48,7 @@ Classes:
 
 ### Week 4: Inferential statistics   
 Videos: 
-    Besics of Inferential statistics Nick?
+    Basics of Inferential statistics Nick?
 
 Classes:
     Class 1 notebook Nick?

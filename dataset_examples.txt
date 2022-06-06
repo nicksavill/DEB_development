@@ -1,0 +1,10 @@
+Data sets
+
+https://www.ecdc.europa.eu/en/publications-data/data-national-14-day-notification-rate-covid-19
+csv file of cumultative covid cases
+
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1004686/AUK-Chapter5-22jul21.ods
+agricultural prodictivy in UK since 1973
+
+http://pscdb.appsbio.utalca.cl/viewSearch/index.php
+Can download metabolite data for >2000 species.  Seem to only be able to download 100 compounds at a time though.

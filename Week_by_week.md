@@ -4,18 +4,25 @@
 ### Week 1: Introduction to biological research questions and real-world datasets.  
 Short recorded lecture from each flavour lead about how data analysis is used in their field.
 Recorded lecture on data sources and data protection
-Outside exercise measuring tree diameters in small groups.  
-Inside workshop entrying the data, summarising by group and comparing between groups.   Noteing noise and error.  
-Weekly quiz  topics: error, summary, signficant differences  
+Class 1 - Outside exercise measuring tree diameters in small groups.  followed immediatley by inside 
+    Entering data, basic plots, normality tests, t test, paired t test, P values
+Class 2 - Downloading data, practice downloading and reading in data sets.
+    reading in from excel, csv, delimitiers, missing values, headers, data types, non-data rows
+
+Weekly quiz  topics: error, summary, signficant differences 
 
 ### Week 2: Data entry, filtering and formatting Data entry, cleaning and summarising.  
-Students will be taught best practices for entering and organising data and the coding required to manage this.  
-Downloading data sets, re-shaping, finding errors.  New topics likely cleaning and re-shaping
-Weekly quiz  topics: 
+Short video on best practices for entering and organising data and the coding required to manage this.  
+Class 1 - re-shaping, finding errors.  Working through toy examples
+    Transposing, correcting text errors, making new columns and rows, subsetting
+Class 2 - Freer form practice with datasets from last week
+
+Weekly quiz topics: coding questions
 
 ### Week 3: Data visualisation  
-How to choose appropriate visualisations for different data types.  Coding for producing a range of plot types, for data exploration.  
-Weekly quiz  
+Short video on how to choose appropriate visualisations for different data types.  Coding for producing a range of plot types, for data exploration.  
+
+Weekly quiz topics: coding questions and plot intrepretation
 
 ### Week 4: Inferential statistics   
 Teaching the principals of testing variation between groups.  Coding to run bootstrapping tests. Describing commonly used approaches (t-tests).  Dependant variables, Linear regression
