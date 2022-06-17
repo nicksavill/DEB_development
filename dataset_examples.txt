@@ -8,3 +8,6 @@ agricultural prodictivy in UK since 1973
 
 http://pscdb.appsbio.utalca.cl/viewSearch/index.php
 Can download metabolite data for >2000 species.  Seem to only be able to download 100 compounds at a time though.
+
+
+Re resources for data visualisation, two websites I find very useful are https://www.gapminder.org/ and https://www.data-to-viz.com/ - the latter in particular should be useful for the students with lots of examples and R & Python code for different data plots and a decision tree what plot to use for what sort of data.

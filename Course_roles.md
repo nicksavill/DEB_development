@@ -16,7 +16,7 @@ Provide biological knowledge to underpin database work for each dataset.  Need s
 Record lectures on use of data science in their field, record lectures on biology behind the dataset, and any issues with gathering the data, likely error etc...
 #### UK Flora
     Catherine and Matthew
-#### Yest transcriptomes
+#### Yeast transcriptomes
     Edward and Cei
 #### Protein structure
     Iain and Chris

@@ -12,15 +12,19 @@ Class 2 - Downloading data, practice downloading and reading in data sets.
 Weekly quiz  topics: error, summary, signficant differences 
 
 ### Week 2: Data entry, filtering and formatting Data entry, cleaning and summarising.  
-Short video on best practices for entering and organising data and the coding required to manage this.  
-Class 1 - re-shaping, finding errors.  Working through toy examples
+Short video on best practices for entering and organising data and the coding required to manage this.
+Video will cover the 'introduction', class 1 will work through a guided example, class 2 will be fro the students to explore their own choice of dataset
+Class 3 - re-shaping, finding errors.  Working through examples
     Transposing, correcting text errors, making new columns and rows, subsetting
-Class 2 - Freer form practice with datasets from last week
+Class 4 - Freer form practice with datasets from last week
 
 Weekly quiz topics: coding questions
 
-### Week 3: Data visualisation  
-Short video on how to choose appropriate visualisations for different data types.  Coding for producing a range of plot types, for data exploration.  
+### Week 3: Data visualisation 1  
+Video will cover the 'introduction', class 1 will working through a guided example, class 2 will be for the students to explore their own choice of dataset
+Short video on seaborn plots.  Coding for producing a range of plot types, for data exploration.  
+Class 5
+Class 6
 
 Weekly quiz topics: coding questions and plot intrepretation
 
