@@ -13,20 +13,21 @@ Weekly quiz  topics: error, summary, signficant differences
 
 ### Week 2: Data entry, filtering and formatting Data entry, cleaning and summarising.  
 Short video on best practices for entering and organising data and the coding required to manage this.
-Video will cover the 'introduction', class 1 will work through a guided example, class 2 will be fro the students to explore their own choice of dataset
-Class 3 - re-shaping, finding errors.  Working through examples
+Video will cover the 'introduction' - the very basics of manipulating dataframes. Class 3 will cover tidy data with some examples of re-formatting dataframes. Class 4 will be for the students to explore their own choice of dataset, I will work it up with the global agricultural darta.
+Video introduction - re-shaping, finding errors.  Working through examples
     Transposing, correcting text errors, making new columns and rows, subsetting
+Class 3 - tidy data, melt and pivot
 Class 4 - Freer form practice with datasets from last week
 
 Weekly quiz topics: coding questions
 
 ### Week 3: Data visualisation 1  
 Video will cover the 'introduction', class 1 will working through a guided example, class 2 will be for the students to explore their own choice of dataset
-Short video on seaborn plots.  Coding for producing a range of plot types, for data exploration.  
-Class 5
-Class 6
+Short video on good and bad plots with examples from Andrew Hudson (and any other I can find)  
+Class 5 Coding for producing a range of plot types, for data exploration.
+Class 6 Practise with a choice of datasets
 
-Weekly quiz topics: coding questions and plot intrepretation
+Weekly quiz topics: coding questions and plot interpretation
 
 ### Week 4: Inferential statistics   
 Teaching the principals of testing variation between groups.  Coding to run bootstrapping tests. Describing commonly used approaches (t-tests).  Dependant variables, Linear regression

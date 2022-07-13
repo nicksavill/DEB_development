@@ -7,6 +7,8 @@ Getting help
 
 #### Groups and subsets
 Ploting the data will help to find new  groups.  How to define these and work with them
+Already done in Week 2. 
+Could move cleaning data to here?
 
 ### CLASS 1
 Practise with defined dataset (which?  Needs to have hidden structure)   

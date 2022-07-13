@@ -27,40 +27,40 @@ Videos:
     Introduction to data analysis in plant surveys - Catherine (or RBGE person I can ask)
     Data sources and data protection Edward?
 Classes:
-    Class 1 notebook Catherine
-    Class 2 plan Catherine
+    Class 1 notebook Catherine - drafted
+    Class 2 plan Catherine - drafted
 
 #### Week 2: Data entry, filtering and formatting Data entry, cleaning and summarising.  
 Videos: 
-    Filtering, cleaning and re-arranging data Catherine
+    Filtering, cleaning and re-arranging data Catherine Drafted notebook for this
 
 Classes:
-    Class 1 notebook Catherine
-    Class 2 plan Catherine
+    Class 1 notebook Catherine - drafted
+    Class 2 plan Catherine - drafted
 
 #### Week 3: Data visualisation  
 Videos: 
-    Appropriate plots Catherine
+    Appropriate plots Catherine (using the examples of bad graphs from Andrew Hudson)
 
 Classes:
-    Class 1 notebook Catherine
-    Class 2 plan Catherine
+    Class 1 notebook Catherine - Introducing Seaborn and how to control it
+    Class 2 plan Catherine - practise with different plot types on real data
 
 ### Week 4: Inferential statistics   
 Videos: 
-    Basics of Inferential statistics Nick?
+    Basics of Inferential statistics
 
 Classes:
-    Class 1 notebook Nick?
-    Class 2 plan Nick?
+    Class 1 notebook - Nick (to follow on from year 1 work)
+    Class 2 plan - Nick (to follow on from year 1 work)
 
 ### Week 5: Multivariate analysis 1.  
 Videos: 
     Introduction to multivarient analysis ??
 
 Classes:
-    Class 1 notebook ??
-    Class 2 plan ??
+    Class 1 notebook Matty?
+    Class 2 plan Matty?
 
 ### Week 6: Multivariate analysis 2.  
 Videos: 
@@ -88,7 +88,7 @@ Classes:
 
 ### Week 9: Principles of data presentation  
 Videos: 
-    Good figures Catherine
+    Good posters Catherine
 
 Classes:
     Class 1 notebook Catherine
