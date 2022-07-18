@@ -43,7 +43,7 @@ Videos:
     Appropriate plots Catherine (using the examples of bad graphs from Andrew Hudson)
 
 Classes:
-    Class 1 notebook Catherine - Introducing Seaborn and how to control it
+    Class 1 notebook Catherine - Introducing Seaborn and how to control it - drafted
     Class 2 plan Catherine - practise with different plot types on real data
 
 ### Week 4: Inferential statistics   

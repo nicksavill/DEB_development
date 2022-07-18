@@ -1,7 +1,13 @@
+
+### Aims of Week 1 classes:
+Introduce the course (Document online, video from CO)
+Introduce the students to each other (tree measuring, group work)
+
+
 ### VIDEOS Introduction to Data Exploration in Biology
 Recorded 20 min talks from each of the flavour set leaders on the role large scale data analysis plays in their field with plenty of examples.
 Recorded 20 min talk from course face about the aims and structure of the course
-Reocrded 20 min talk from someone on Database sources, regulation and protection
+Recorded 20 min talk from someone on Database sources, regulation and protection
 
 ### CLASS 1 Field exercise
 Working in groups of 3? measure DBH of trees on KB campus
