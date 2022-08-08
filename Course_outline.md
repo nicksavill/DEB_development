@@ -11,17 +11,17 @@ Students will be taught best practices for entering and organising data and the 
 Week 3: Data visualisation  
 How to choose appropriate visualisations for different data types.  Coding for producing a range of plot types, for data exploration.  
 
-Week 4: Inferential statistics   
+Week 4: Combining data 
+Adding new data, merging dataframes, subsetting dataframes
+
+Week 5: Inferential statistics   
 Teaching the principals of testing variation between groups.  Coding to run bootstrapping tests. Describing commonly used approaches (t-tests).  
 
-Week 5: Multivariate analysis 1.  
+Week 6: Multivariate analysis 1.  
 Introduction to the concepts of multivariate statistics.  
 
-Week 6: Multivariate analysis 2.   
+Week 7: Multivariate analysis 2.   
 How to visualise and interpret multivariate relationships in Python.  Using examples to provide a framework.  
-
-Week 7: Multivariate analysis   
-Expanding using additional examples.  
 
 Week 8: Putting the results in biological context – more on the system  
 Interactive session where student groups are able to discuss with staff in charge of each dataset outcomes of their investigations.  Including a presentation from the “dataset coordinator” about the data and the advanced or wider implications/applications of the datasets  

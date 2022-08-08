@@ -38,6 +38,8 @@ Classes:
     Class 1 notebook Catherine - drafted
     Class 2 plan Catherine - drafted
 
+    NEED TO ADD SECTION ON COMBINING DATASETS
+    
 #### Week 3: Data visualisation  
 Videos: 
     Appropriate plots Catherine (using the examples of bad graphs from Andrew Hudson)
@@ -46,7 +48,13 @@ Classes:
     Class 1 notebook Catherine - Introducing Seaborn and how to control it - drafted
     Class 2 plan Catherine - practise with different plot types on real data
 
-### Week 4: Inferential statistics   
+
+### NEW! Week 4: Combining data 
+Adding new data, merging dataframes, subsetting dataframes
+[I tried adding this in to  Week 2 but it's a big topic and extra practise is needed]
+
+
+### Week 5: Inferential statistics   
 Videos: 
     Basics of Inferential statistics
 
@@ -54,7 +62,7 @@ Classes:
     Class 1 notebook - Nick (to follow on from year 1 work)
     Class 2 plan - Nick (to follow on from year 1 work)
 
-### Week 5: Multivariate analysis 1.  
+### Week 6 Multivariate analysis 1.  
 Videos: 
     Introduction to multivarient analysis ??
 
@@ -62,29 +70,21 @@ Classes:
     Class 1 notebook Matty?
     Class 2 plan Matty?
 
-### Week 6: Multivariate analysis 2.  
+### Week 7: Multivariate analysis 2.  
 Videos: 
-    Multivarient analysis in python ??
+     Distance metrics, kmeans and hiearchical clustering? ??
 
 Classes:
     Class 1 notebook ??
     Class 2 plan ??
 
-### Week 7: Starting work with the datasets  
+### Week 8: Starting work with the datasets  
 Videos: 
     Hypothesis development and testing Catherine
 
 Classes:
     Class 1 Flavour leads
     Class 2 Flavour leads
-
-### Week 8: Multivariate analysis 3.
-Videos: 
-    Distance metrics, kmeans and hiearchical clustering? ??
-
-Classes:
-    Class 1 notebook ??
-    Class 2 plan ??
 
 ### Week 9: Principles of data presentation  
 Videos: 

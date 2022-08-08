@@ -17,7 +17,7 @@ Video will cover the 'introduction' - the very basics of manipulating dataframes
 Video introduction - re-shaping, finding errors.  Working through examples
     Transposing, correcting text errors, making new columns and rows, subsetting
 Class 3 - tidy data, melt and pivot
-Class 4 - Freer form practice with datasets from last week
+Class 4 - Freer form practice
 
 Weekly quiz topics: coding questions
 
@@ -29,33 +29,37 @@ Class 6 Practise with a choice of datasets
 
 Weekly quiz topics: coding questions and plot interpretation
 
-### Week 4: Inferential statistics   
+### Week 4: Combining and subsetting data (and website scraping)
+Concat, merge and join.  subsetting by rows, columns and logical opperations.  Heirarchical structures.
+Video covering principals of merging dataset - inner and outer merges, keys.
+Class 7 
+Class 8 Working with set questions from flavour leaders to download two datasets, combine them and plot a figure to answer a biological question.
+
+Weekly quiz  
+Mega quiz - coding  
+
+### Week 5: Inferential statistics   
 Teaching the principals of testing variation between groups.  Coding to run bootstrapping tests. Describing commonly used approaches (t-tests).  Dependant variables, Linear regression
 Possibly mostly a reminder of Y1 work?
 Weekly quiz  
 Mega quiz - coding  
 
-### Week 5: Multivariate analysis 1.  
+### Week 6: Multivariate analysis 1.  
 Introduction to the concepts of multivariate statistics.  
 Can we do this without matrix algebra?  
 Standardisation, co-variance, eigen values and vectors
 Weekly quiz  
 
-### Week 6: Multivariate analysis 2.  
+### Week 7: Multivariate analysis 2.  
+Expanding using additional examples.  (distance metrics, kmeans and hiearchical clustering?)
 How to visualise and interpret multivariate relationships in Python.  Using examples to provide a framework.  
 https://github.com/gatsoulis/a_little_book_of_python_for_multivariate_analysis
 Weekly quiz  
 
-### Week 7: Starting work with the datasets  
+### Week 8: Starting work with the datasets  
 Students pick a dataset to focus on (groups of 5) and in workshops led by each flavours lead develop a hypothesis which can be tested using their data exploration skills.  
 Recorded lecture on hypothesis development and testing  
 3 parallel workshops to develop plans for each group finishing with short presesntation  of each group's plans  
-Weekly quiz  
-
-### Week 8: Multivariate analysis 3.
-Expanding using additional examples.  (distance metrics, kmeans and hiearchical clustering?)
-Recorded lecture on Multivariate analysis  
-Workshop for project work  
 Weekly quiz  
 Mega quiz - coding  
 
