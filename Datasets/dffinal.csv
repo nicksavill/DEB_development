@@ -1,0 +1,130 @@
+,#ID_Hannah_thesis,NROH,SROH,Species,Coll_number,Coll_year,DNA_input,Section,Material,Reads_hits,Depth,Date,Country,Region,Province,District,Location,Habitat,Altitude,Herb_nbr,S_deg,S_min,S_sec,E_deg,E_min,E_sec,Latitude,Longitude
+0,1,123,172.422,B.bipinnatifida,90414,2017,37,Petermannia,Herbarium,303754,0.238022,2017,,,,,,,,,,,,,,,,
+1,102,265,510.787,B.Petermannia,41875B,1975,110.7,Petermannia,Herbarium,2368424,1.40495,1975,PNG,Momase,Morobe,Buolo,Mount Kaindi,Creek bed,,,7,20,2,146,40,53,-7.33388888888889,146.681388888889
+2,110,110,300.562,B.Petermannia,B15JD87,1987,110.7,Petermannia,Herbarium,5066044,3.47536,1987,PNG,Momase,Morobe,  ,Mount Kaindi,Montane slope,2000,E00833899,7,20,2,146,40,53,-7.33388888888889,146.681388888889
+3,113,31,41.544,B.strigosa,5167,1978,11.7,Symbegonia,Herbarium,481786,0.833,1978,PNG,Highlands,Southern Highlands,Mendi Munihu,Tagenda,,1760,E00656327,6,15,0,143,41,59,-6.25,143.699722222222
+4,117,119,170.453,B.Symbegonia,594,1981,110.7,Symbegonia,Herbarium,512496,0.30136,1981,PNG,Highlands,Eastern Highlands,Kainantau,Sosointenu,Shaded moist,1800,E00175654,6,16,45,145,55,46,-6.27916666666667,145.929444444444
+5,117a,78,110.345,B.Symbegonia,594,1981,,Symbegonia,Herbarium,559858,0.323796,1981,PNG,Highlands,Eastern Highlands,Kainantau,Sosointenu,Shaded moist,1800,E00175654,6,16,45,145,55,46,-6.27916666666667,145.929444444444
+6,120,52,151.567,B.strigosa,593,1981,110.5,Symbegonia,Herbarium,2546831,6.12167,1981,PNG,Highlands,Enga,Porgera,Alupai,Terrestrial small Creek,,E00841607,5,27,5,143,6,1,-5.45138888888889,143.100277777778
+7,121,229,347.186,B.Symbegonia,B34ED87,1987,110.7,Symbegonia,Herbarium,964400,2.21868,1987,PNG,Highlands,Southern Highlands,Mendi Munihu,Lake Kutubu,Wet slope base of waterfall,850,E00748115,6,23,34.44,143,19,28.56,-6.3929,143.3246
+8,125,277,451.773,B.kaniensis,378,1962,37,Diploclinium,Herbarium,910457,0.543399,1962,PNG,Southern,Central,Rigo,Doma,,950,E00045452,5,54,8,143,9,18,-5.90222222222222,143.155
+9,127,49,63.15,B.Petermannia,68955,1976,110.7,Petermannia,Herbarium,2072971,2.74395,1976,PNG,Southern,Milne Bay,Esa’ala,Mount Kilkerran,Montane slope,1500,E00299377,9,25,0,150,48,0,-9.41666666666667,150.8
+10,128,693,1328.448,B.Petermannia,591,1981,110.7,Petermannia,Herbarium,4418040,2.94881,1981,PNG,Highlands,Chimbu,Chuave,Chuave Rural LLG,Shaded moist,1700,E00299366,9,25,0,150,48,0,-9.41666666666667,150.8
+11,129,32,51.502,B.Petermannia,89,1977,24.75,Petermannia,Herbarium,773219,3.57629,1977,PNG,Momase,West Sepik (West Sepik (Sandaun)),,Storm Creek,,500,E00299353,3,40,0,141,30,0,-3.66666666666667,141.5
+12,131,209,319.601,B.Petermannia,B33KW87,1987,110.7,Petermannia,Herbarium,317563,0.537482,1987,PNG,Highlands,Southern Highlands,Mendi-Munihu,Lake Kutubu,Forest shade,850,E00833912,6,23,34.44,143,19,28.56,-6.3929,143.3246
+13,132,369,567.46,B.Petermannia,B44JD87,1987,79.5,Petermannia,Herbarium,1003913,0.934771,1987,PNG,Momase,Morobe,Gumi,Bulolo,,2000,E00833906,7,12,0,146,38,48,-7.2,146.646666666667
+14,133,186,266.125,B.Petermannia,B1JD87,1987,110.7,Petermannia,Herbarium,4026863,3.59811,1987,PNG,Southern,Oro,Iora Creek,Myola,Forest shade,2100,E00833895,,,,,,,,
+15,138,66,106.574,B.vinkii,80320,1980,50,Symbegonia,Herbarium,1068272,1.02611,1980,PNG,Highlands,Simbu,Gembogl,Guruguru,Forest shade,2550,E00841609,9,16,0,148,57,0,-9.26666666666667,148.95
+16,139,145,555.467,B.symsanguinea,6664,2004,110.7,Symbegonia,Herbarium,3378808,1.95866,2004,PNG,Southern,Milne Bay,,,,304.8,E00175656,9,55,37,149,23,12,-9.92694444444444,149.386666666667
+17,14,1046,1925.555,B.cyrtandroides,4253,2002,61,Symbegonia,Herbarium,1307110,0.926581,2002,Indonesia,Western New Guinea (Irian Jaya),Highland Papua,Lanny Jaya Regency,Dimba,,2400,LYJB014460,3,48,0,138,28,0,-3.8,138.466666666667
+18,140,1718,4676.104,B.Symbegonia,B32ED87,1987,110.7,Symbegonia,Herbarium,4405107,6.43567,1987,PNG,Highlands,Southern Highlands,Mendi-Munihu,Katepa,Shaded waterfall,1800,E00748113,6,12,0,143,44,0,-6.2,143.733333333333
+19,142,116,179.313,B.strigosa,592,1981,99.5,Symbegonia,Herbarium,1165123,0.8619,1981,PNG,Highlands,Enga,Porgera,Paiela,terrestrialwetshaded,1800,E00841608,5,22,27,142,58,34,-5.37416666666667,142.976111111111
+20,14a,1590,3434.227,B.cyrtandroides,4253,2002,,Symbegonia,Herbarium,1281719,1.02985,2002,Indonesia,Western New Guinea (Irian Jaya),Highland Papua,Lanny Jaya Regency,Dimba,,2400,LYJB014460,3,48,0,138,28,0,-3.8,138.466666666667
+21,151,1216,2381.135,B.fulvovillosa,2151,1968,5.05,Symbegonia,Herbarium,2093499,2.31994,1968,PNG,Momase,Morobe,Kabwum,Aregenang,,1090,E00299378,,,,,,,,
+22,151a,34,56.074,B.fulvovillosa,2151,1968,,Symbegonia,Herbarium,228388,0.325718,1968,PNG,Momase,Morobe,Kabwum,Aregenang,,1090,E00299378,,,,,,,,
+23,153,416,650.029,B.kaniensis,590,1981,52.5,Diploclinium,Herbarium,379871,0.457534,1982,PNG,Highlands,Enga,Lagaip-Porgera,Kandep-Laiagam,Climbing terrestrial or epiphyte,2900,E00045450,,,,,,,,
+24,153a,1862,4935.023,B.kaniensis,590,1981,,Diploclinium,Herbarium,2892991,3.1282,1982,PNG,Highlands,Enga,Lagaip-Porgera,Kandep-Laiagam,Climbing terrestrial or epiphyte,2900,E00045450,,,,,,,,
+25,153b,77,395.689,B.kaniensis,590,1981,,Diploclinium,Herbarium,7067576,4.77908,1982,PNG,Highlands,Enga,Lagaip-Porgera,Kandep-Laiagam,Climbing terrestrial or epiphyte,2900,E00045450,,,,,,,,
+26,156,319,481.864,B.Petermannia,16712,1963,53,Petermannia,Herbarium,591200,0.771549,1963,PNG,Momase,Morobe ,Lae,Busu river,Forest shade,60,E00299373,,,,,,,,
+27,157,1553,2907.872,B.Petermannia,16712,1963,110.7,Petermannia,Herbarium,3710438,2.05786,1963,PNG,Momase,Morobe ,Lae,Busu river,Forest shade,60,E00299373,,,,,,,,
+28,159,328,573.185,B.mimikaensis,199,2005,110.7,Symbegonia,Herbarium,1746900,0.923924,2005,Indonesia,Western New Guinea (Irian Jaya),Central Papua,Mimika Regency,Utekini Valley,,1500,E00649080,,,,,,,,
+29,159a,502,1108.253,B.mimikaensis,199,2005,,Symbegonia,Herbarium,4697708,2.9835,2005,Indonesia,Western New Guinea (Irian Jaya),Central Papua,Mimika Regency,Utekini Valley,,1500,E00649080,,,,,,,,
+30,16,1206,2682.632,B.cyrtandroides,4287,2004,47.75,Symbegonia,Herbarium,4671387,2.96649,2004,Indonesia,Western New Guinea (Irian Jaya),Highland Papua,Tolikara Regency,Goyage,,2132,LYJB014467,3,43,0,138,25,0,-3.71666666666667,138.416666666667
+31,161,1,1.079,B.kaniensis,12458,1998,6.9,Diploclinium,Herbarium,290163,0.864264,1998,PNG,Highlands,Eastern Highlands,,Crater Mountain Wildlife,Montane forest,1675,E00656306,6,43,0,145,0,0,-6.71666666666667,145
+32,16a,571,928.262,B.cyrtandroides,4287,2004,,Symbegonia,Herbarium,1454255,1.6221,2004,Indonesia,Western New Guinea (Irian Jaya),Highland Papua,Tolikara Regency,Goyage,,2132,LYJB014467,3,43,0,138,25,0,-3.71666666666667,138.416666666667
+33,17,709,1340.331,B.cyrtandroides,4294,2004,18.3,Symbegonia,Herbarium,2861752,2.12186,2004,Indonesia,Western New Guinea (Irian Jaya),Highland Papua,Tolikara Regency,Dombenega,Montane forest,2350,LYJB014461,3,43,0,138,22,0,-3.71666666666667,138.366666666667
+34,172,1563,4086.925,B.Blanc,s.n.,,110.7,Petermannia,Silica,3187831,1.68807,,,,,,,,,20170997,,,,,,,,
+35,174,2252,4823.155,B.ArgentEtAl248,248,,110.7,Petermannia,Silica,2219066,1.80582,1931,Indonesia,Western New Guinea (Irian Jaya),West Papua (Irian Jaya),Waigeo,,,,20090938,,,,,,,,
+36,178,567,1305.41,B.bipinnatifida,21410,2008,110.7,Petermannia,Silica,6828101,3.45423,2008,PNG,,,,,,,,,,,,,,,
+37,178a,602,1262.704,B.bipinnatifida,21410,2008,,Petermannia,Silica,4385654,4.33156,2008,PNG,,,,,,,,,,,,,,,
+38,179,789,1582.565,B.CKYang1598,1598,2008,53.75,Petermannia,Silica,3470874,1.77135,2008,PNG,,,,,,,,,,,,,,,
+39,18,3020,7371.527,B.stilandra,4477,2006,110.7,Petermannia,Herbarium,6830826,4.34897,2006,Indonesia,Western New Guinea (Irian Jaya),Highland Papua,Tolikara Regency,Paba,,1600,LYJB014463,,,,,,,,
+40,180,30,35.825,B.maguniana,LAE90444,2017,39.25,Oligandrae,Herbarium,156802,0.198541,2017,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,,1750,,5,6,15,141,39,29,,
+41,187,262,411.383,B.cyrtandroides,4253,2002,12.1,Symbegonia,Herbarium,475437,0.332721,2002,,,,,,,,,,,,,,,,
+42,18a,1973,4171.638,B.stilandra,4477,2006,,Petermannia,Herbarium,2660109,1.92375,2006,Indonesia,Western New Guinea (Irian Jaya),Highland Papua,Tolikara Regency,Paba,,1600,LYJB014463,,,,,,,,
+43,19,927,2118.528,B.cyrtandroides,4638,2008,67.5,Symbegonia,Herbarium,3822294,2.0499,2008,,,,,,,,LYJB014466,,,,,,,,
+44,195,243,424.935,B.Petermannia,ELAE1,2018,110.7,Petermannia,Silica,1730178,0.807664,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Montane forest,1608,,,,,,,,-5.112231,141.648222
+45,196,317,652.928,B.Petermannia,ELAE4,2018,110.7,Petermannia,Silica,2264870,1.15102,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Montane forest,1684,,,,,,,,-5.109984,141.654756
+46,198,153,235.759,B.Oligandrae,ELAE7,2018,110.7,Oligandrae,Silica,2033874,1.3015,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Montane forest,1775,,,,,,,,-5.101896,141.657218
+47,199,106,139.761,B.vinkii,ELAE9,2018,110.7,Symbegonia,Silica,283119,0.142604,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Montane forest,1822,,,,,,,,-5.099509,141.656353
+48,1a,5,7.858,B.bipinnatifida,90414,2017,,Petermannia,Herbarium,60528,0.0376603,2017,,,,,,,,1a,,,,,,,,
+49,200,996,1874.518,B.oligandra,ELAE10,2018,110.7,Oligandrae,Silica,1056761,0.538202,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Montane forest,1822,,,,,,,,-5.099509,141.656353
+50,201,874,1524.936,B.kaniensis,ELAE23,2018,110.7,Diploclinium,Silica,224007,0.113445,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Mid montane forest,1555,,,,,,,,-5.119075,141.662523
+51,202,895,5899.547,B.brachybotrys,ELAE24,2018,110.7,Petermannia,Silica,11377442,8.48868,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Mid montane forest,1555,,,,,,,,-5.119075,141.662523
+52,202a,3268,15522.019,B.brachybotrys,ELAE24,2018,,Petermannia,Silica,5084817,3.38671,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Mid montane forest,1555,202a,,,,,,,-5.119075,141.662523
+53,203,367,599.477,B.sandsiana,ELAE26,2018,110.7,Oligandrae,Silica,164556,0.0849058,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Mid montane forest,1529,,,,,,,,-5.119147,141.661438
+54,204,294,475.121,B.Petermannia,ELAE27,2018,94,Petermannia,Silica,700055,0.349671,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Mid montane forest,1529,,,,,,,,-5.119147,141.661438
+55,205,242,551.812,B.bracssii,ELAE29,2018,110.7,Oligandrae,Herbarium,7137269,4.38456,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Feramin,Mid montane forest,1457,,,,,,,,-5.214287,141.708498
+56,206,58,75.971,B.Oligandrae,ELAE30,2018,110.7,Oligandrae,Silica,802708,0.405904,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Feramin,Mid montane forest,1699,,,,,,,,-5.230647,141.725124
+57,207,1053,2388.475,B.brassii,ELAE31,2018,110.7,Oligandrae,Silica,1193140,0.567533,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Feramin,Mid montane forest,1699,,,,,,,,-5.230647,141.725124
+58,208,862,1532.631,B.vinkii,ELAE44,2018,88.5,Symbegonia,Silica,701817,0.361414,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Feramin,Mid montane forest,1875,,,,,,,,-5.236574,141.730797
+59,209,1316,3125.067,B.Symbegonia,ELAE46,2018,110.7,Symbegonia,Silica,1107751,0.578501,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Feramin,Mid montane forest,1860,,,,,,,,-5.233635,141.730684
+60,210,1165,2261.912,B.pentandra,ELAE47,2018,110.7,Oligandrae,Silica,1191266,0.690852,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Feramin,Mid montane forest,1415,,,,,,,,-5.177844,141.692992
+61,211,395,763.213,B.Petermannia,ELAE52,2018,110.7,Petermannia,Silica,2187988,1.50424,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Feramin,Mid montane forest,1477,,,,,,,,-5.172132,141.691039
+62,212,2206,6221.725,B.kaniensis,ELAE57,2018,110.7,Diploclinium,Silica,3201317,1.62763,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Montane forest,1680,,,,,,,,-5.108328,141.647319
+63,213,393,1046.638,B.Petermannia,ELAE62,2018,110.7,Symbegonia,Silica,4494448,2.22843,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Montane forest,1635,,,,,,,,-5.094398,141.61329
+64,214,455,723.285,B.Petermannia,ELAE72,2018,89,Petermannia,Silica,1999843,1.08829,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Montane forest,1743,,,,,,,,-5.089031,141.613149
+65,215,1905,4152.372,B.Petermannia,ELAE81,2018,32,Petermannia,Silica,1556246,0.851882,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Telefomin,Montane forest,1401,,,,,,,,-5.144215,141.650183
+66,216,204,578.999,B.Petermannia,ELAE82,2018,77,Petermannia,Silica,2415171,1.25395,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Tekin,Limestone karst forest ,1757,,,,,,,,-5.239259,142.147984
+67,217,349,884.079,B.Petermannia,ELAE83,2018,53.5,Petermannia,Silica,4475125,2.85476,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Tekin,Montane forest on limestone ,2063,,,,,,,,-5.251981,142.167729
+68,218,279,947.854,B.Petermannia,ELAE86,2018,94,Petermannia,Silica,3536582,1.98691,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Tekin,Montane forest on limestone ,2123,,,,,,,,-5.252086,142.166896
+69,219,459,751.96,B.brassii,ELAE87,2018,109.5,Oligandrae,Silica,184383,0.0964327,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Tekin,Montane forest on limestone ,2205,,,,,,,,-5.252114,142.166663
+70,220,1805,4502.61,B.chambersiae,ELAE88,2018,71,Oligandrae,Silica,2390154,1.68458,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Tekin,Montane forest on limestone ,2205,,,,,,,,-5.252114,142.166663
+71,221,2165,7301.813,B.kaniensis,ELAE90,2018,49.75,Diploclinium,Silica,2511179,1.34864,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Tekin,Moss forest,2283,,,,,,,,-5.253111,142.166768
+72,222,507,1203.023,B.Petermannia,ELAE93,2018,93,Petermannia,Silica,5191158,3.02769,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Tekin,Montane forest,2062,,,,,,,,-5.215586,142.152147
+73,223,202,348.092,B.Petermannia,ELAE94,2018,68,Petermannia,Silica,1892824,0.930433,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Tekin,Montane forest,1796,,,,,,,,-5.228557,142.164267
+74,224,3372,19190.067,B.kaniensis,ELAE96,2018,22.65,Diploclinium,Silica,4713704,2.65773,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Busilmin,Montane forest,1550,,,,,,,,-4.904673,141.159506
+75,225,1444,2734.915,B.Petermannia,ELAE98,2018,81.5,Petermannia,Silica,1531870,0.782469,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Busilmin,Montane forest,1563,,,,,,,,-4.904353,141.159722
+76,227,556,916.426,B.brassii,ELAE103,2018,110.7,Oligandrae,Silica,525911,0.284672,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Busilmin,Montane forest,1707,,,,,,,,-4.918965,141.15988
+77,228,2413,5986.315,B.Petermannia,ELAE104b,2018,77.5,Petermannia,Silica,4154615,2.35775,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Busilmin,Montane forest,1671,,,,,,,,-4.924965,141.14235
+78,230,603,1062.114,B.Petermannia,ELAE111,2018,110.7,Petermannia,Silica,814838,0.478036,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Busilmin,Montane forest,1882,,,,,,,,-4.933137,141.14314
+79,231,36,46.675,B.kaniensis,ELAE114,2018,20.55,Diploclinium,Silica,758,0,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Busilmin,Montane forest,1816,,,,,,,,-4.930433,141.143262
+80,232,598,1330.799,B.serratipetala,ELAE115,2018,110.7,Petermannia,Silica,7239484,3.72065,2018,PNG,Momase,West Sepik (Sandaun),Telefomin,Busilmin,Montane forest,1641,,,,,,,,-4.911231,141.152274
+81,233,1426,2784.266,B.Petermannia,ELAE118,2018,103.5,Petermannia,Silica,2125814,1.05147,2018,,,,,,Cultivation,,,,,,,,,,
+82,234,492,813.853,B.Petermannia,ELAE119,2018,20.15,Petermannia,Silica,2675768,1.46363,2018,,,,,,Cultivation,,,,,,,,,,
+83,235,1033,1781.018,B.Petermannia,LAE91234,2018,92,Petermannia,Silica,970946,0.475219,2018,,,,,,,,,,,,,,,,
+84,236,1743,3497.18,B.fractalifolia,LAE91285,2018,110.7,Petermannia,Silica,2771133,1.37945,2018,PNG,Momase,West Sepik (Sandaun),,Kwima,,139,,4,29,28,141,5,15,-4.49111111111111,141.0875
+85,237,1532,2987.26,B.aikrono,LAE91289,2018,88,Petermannia,Silica,1501906,1.00086,2018,PNG,Momase,West Sepik (Sandaun),,Kwima,,167,,4,29,23,141,5,17,-4.48972222222222,141.088055555556
+86,238,512,768.221,B.sandaunensis,LAE91157,2018,34.25,Symbegonia,Silica,1109156,0.689152,2018,PNG,Momase,West Sepik (Sandaun),,Yapsiei,,192,,4,37,32,141,5,28,-4.62555555555556,141.091111111111
+87,240,2558,5813.029,B.aikrono,LAE91288,2018,52,Petermannia,Silica,6954583,4.0941,2018,PNG,Momase,West Sepik (Sandaun),,Kwima,,167,,4,29,23,141,5,17,-4.48972222222222,141.088055555556
+88,241,1397,2743.391,B.Petermannia,LAE91386,2018,63,Petermannia,Silica,1456575,0.781393,2018,PNG,Momase,West Sepik (Sandaun),,Yapsiei,,190,,4,37,29,141,5,20,-4.62472222222222,141.088888888889
+89,242,2067,4949.24,B.Petermannia,LAE91158,2018,22.35,Petermannia,Silica,2679972,2.21398,2018,,,,,,,,,,,,,,,,
+90,243,2089,5165.331,B.Petermannia,LAE91151,2018,20.4,Petermannia,Silica,2253408,2.0605,2018,,,,,,,,,,,,,,,,
+91,244,1130,2133,B.Petermannia,LAE91148,2018,35,Petermannia,Silica,2378540,1.62967,2018,PNG,Momase,West Sepik (Sandaun),,Yapsiei,,178,,4,37,33,141,5,30,-4.62583333333333,141.091666666667
+92,245,1943,4684.855,B.Petermannia,LAE91156,2018,32,Petermannia,Silica,1841759,1.36187,2018,,,,,,,,,,,,,,,,
+93,25,170,270.818,B.symsanguinea,10003,2013,9.55,Symbegonia,Herbarium,342662,0.182557,2013,PNG,Momase,Madang,,Teptep,Terrestrial,2250,E00710885,5,56,29,146,33,37,-5.94138888888889,146.560277777778
+94,25a,1686,4193.188,B.symsanguinea,10003,2013,,Symbegonia,Herbarium,6683339,6.80539,2013,PNG,Momase,Madang,,Teptep,Terrestrial,2250,E00710885,5,56,29,146,33,37,-5.94138888888889,146.560277777778
+95,28,822,1614.893,B.Symbegonia,86/195,1987,65,Symbegonia,Herbarium,3605268,4.50409,1986,PNG,Highlands,Chimbu,,Elimbari Rural LLG,Montane forest,2400,E00533146,6,12,0,145,10,0,-6.2,145.166666666667
+96,28a,168,249.043,B.Symbegonia,86/195,1987,,Symbegonia,Herbarium,1726171,0.994877,1986,PNG,Highlands,Chimbu,,Elimbari Rural LLG,Montane forest,2400,E00533146,6,12,0,145,10,0,-6.2,145.166666666667
+97,29,3,3.66,B.arfakensis,16,2009,6.45,Symbegonia,Herbarium,152221,0.770272,2009,Indonesia,Western New Guinea (Irian Jaya),West Papua,,Arfak Mountains,Montane forest,2000,E00533076,1,6,36.1,133,54,7.1,-1.11002777777778,133.901972222222
+98,2a,7,8.896,B.maguniana,LAE90444,2017,,Oligandrae,Herbarium,331111,0.487661,2017,PNG,Momase,West Sepik (Sandaun),Telefomin,Feramin,,1750,,5,6,15,141,39,29,-5.10416666666667,141.658055555556
+99,3,35,319.181,B.vinkii,90455,2017,12.35,Symbegonia,Herbarium,1502183,2.72319,2017,,,,,,,,,,,,,,,,
+100,30,1,1.242,B.augustae,10004,2013,1.25,Petermannia,Herbarium,92810,0.299058,2013,PNG,Momase,Madang,,Teptep,Terrestrial,,E00710884,5,56,29.6,146,33,37.1,-5.94155555555556,146.560305555556
+101,31,372,600.367,B.fulvovillosa,86/11,1986,13.2,Symbegonia,Herbarium,637151,0.769962,1986,PNG,Momase,Morobe,Nawae,Boana,Shaded bank,1500,E00841606,6,25,0,146,48,0,-6.41666666666667,146.8
+102,31a,362,591.366,B.fulvovillosa,86/11,1986,,Symbegonia,Herbarium,1450183,1.63363,1986,PNG,Momase,Morobe,Nawae,Boana,Shaded river bank,1500,E00841606,6,25,0,146,48,0,-6.41666666666667,146.8
+103,32,41,54.224,B.Symbegonia,92405,1992,4.2,Symbegonia,Herbarium,552456,1.1817,1992,Indonesia,Western New Guinea (Irian Jaya),Highland Papua,Jayawijaya Regency,Pabilylo,Shaded swampy forest,2600,E00533150,,,,,,,-4.0833,139.0833
+104,35,2,2.96,B.symbracteosa,88703,2008,2.5,Symbegonia,Herbarium,127185,0.41999,2008,PNG,Momase,Madang,Middle Ramu,Simbai,Montane forest,1850,E00318967,5,16,51,144,32,0,-5.28083333333333,144.533333333333
+105,38,370,594.752,B.bipinnatifida,209,2009,57.25,Petermannia,Herbarium,1580111,1.15143,2009,Indonesia,Western New Guinea (Irian Jaya),Yapen Island,Kosiwo,Ambaidiru,Montane forest,886,E00324265,1,46,0,136,10,0,-1.76666666666667,136.166666666667
+106,39,442,698.366,B.Petermannia,B1JD87,1987,82.5,Petermannia,Herbarium,2793980,1.72401,1987,PNG,Southern,Oro,Iora Creek,Myola,Forest floor,2100,E00833895,9,8,57,147,43,47,-9.14916666666667,147.729722222222
+107,3a,1937,5232.049,B.vinkii,90455,2017,,Symbegonia,Herbarium,3496335,2.24441,2017,,,,,,,,,,,,,,,,
+108,3b,1566,4181.35,B.vinkii,90455,2017,,Symbegonia,Herbarium,2589786,1.55333,2017,,,,,,,,,,,,,,,,
+109,40,516,851.474,B.Petermannia,B15JD87,1987,34.5,Petermannia,Herbarium,944333,0.916892,1987,PNG,Momase,Morobe,,Mount Kaindi,Shaded creek bed,2000,E00833899,7,20,2,146,40,53,-7.33388888888889,146.681388888889
+110,41,1733,3781.15,B.Petermannia,B44JD87,1987,110.7,Petermannia,Herbarium,2433482,1.97563,1987,PNG,Momase,Morobe,Gumi,Bulolo,Shaded river bank,2000,E00833906,7,12,,146,38,4,-7.2,146.634444444444
+111,43,1469,2841.792,B.Petermannia,B33KW87,1987,74,Petermannia,Herbarium,3400248,2.30401,1987,PNG,Highlands,Southern Highlands,Mendi Munihu,Lake Kutubu,Deep forest shade,350,E00833912,6,24,0,143,20,0,-6.4,143.333333333333
+112,44,427,661.939,B.Petermannia,B13JD87,1987,6.3,Petermannia,Herbarium,1441001,1.40243,1987,PNG,Momase,Morobe,,Mount Kaindi,Lower Montane slope,2000,E00833917,7,20,2,146,40,53,-7.33388888888889,146.681388888889
+113,45a,486,1020.032,B.erodifolia,596,1981,,Symbegonia,Herbarium,1802616,1.33907,1981,PNG,Highlands,Enga,Porgera,Bealo,Terrestrial in wet shaded place,1800,,5,16,48,142,53,59,-5.28,142.899722222222
+114,46,1194,2248.928,B.asaroensis,86/82,1986,65,Symbegonia,Herbarium,1517216,1.37965,1986,PNG,Highlands,Eastern Highlands,Kaindi,Mount Michael,On cliff in mossy submontane rain forest,,E00841603,6,23,0,145,19,0,-6.38333333333333,145.316666666667
+115,46a,297,480.111,B.asaroensis,86/82,1986,,Symbegonia,Herbarium,700113,0.513914,1986,PNG,Highlands,Eastern Highlands,Kaindi,Mount Michael,On cliff in mossy submontane rain forest,,E00841603,6,23,0,145,19,0,-6.38333333333333,145.316666666667
+116,48,3,3.273,B.Symbegonia,86/17,1986,46,Symbegonia,Herbarium,149731,1.34312,1986,PNG,Momase,Morobe,,Boana,Mossy submontane forest in shade.,1500,E00841605,6,25,0,146,48,0,-6.41666666666667,146.8
+117,48a,718,1172.471,B.Symbegonia,86/17,1986,,Symbegonia,Herbarium,2582952,1.5466,1986,PNG,Momase,Morobe,,Boana,Mossy submontane forest in shade.,1500,E00841605,6,25,0,146,48,0,-6.41666666666667,146.8
+118,56,2330,5700.357,B.augustae,10004,2013,95.5,Petermannia,Herbarium,3518600,3.29989,2013,PNG,Momase,Madang,,Teptep,Terrestrial close to river,2250,E00710884,5,56,29.6,146,33,37.1,-5.94155555555556,146.560305555556
+119,57,1243,2171.096,B.weigallii,2583,2007,82.5,Petermannia,Herbarium,1145405,0.780089,2007,PNG,Islands,Bougainville,Balbi,Togarau,Open forest on ridge.,830,E00318745,5,57,0,155,4,0,-5.95,155.066666666667
+120,58,252,353.85,B.bipinnatifida,90414,2017,73.5,Petermannia,Herbarium,368579,0.319629,2017,,,,,,,,,,,,,,,,
+121,60,377,797.159,B.Petermannia,90446,2017,110.7,Petermannia,Herbarium,2331216,2.59958,2017,,,,,,,,,,,,,,,,
+122,60a,151,251.668,B.Petermannia,90446,2017,,Petermannia,Herbarium,2272840,1.1653,2017,,,,,,,,,,,,,,,,
+123,83,143,224.4,B.Petermannia,55,1977,10.65,Petermannia,Herbarium,1019471,1.08777,1977,PNG,Momase,Morobe,,Wau,Cultivated garden with stream,1550,,7,20,20,146,43,0,-7.33888888888889,146.716666666667
+124,84,4,4.814,B.Petermannia,NGF17871,1963,16.45,Petermannia,Herbarium,166585,0.284735,1963,PNG,Momase,Morobe,Buang Rural LLG,Wagau,Mid montane forest,1219.2,,6,45,0,146,50,0,-6.75,146.833333333333
+125,87,4,4.398,B.tafaensis,22330,1953,14.4,Petermannia,Herbarium,201118,0.392886,1953,PNG,Southern,Milne Bay,,Mount Dayman, In a moist ravine in forest. North slopes of Mt. Dayman  Maneau Range.,1800,,9,50,0,149,17,0,-9.83333333333333,149.283333333333
+126,89,59,92.645,B.Petermannia,23593,1953,17.6,Petermannia,Herbarium,323831,0.200405,1953,PNG,Southern,Milne Bay,,Mount Dayman,Moist gully in oak forest. North slopes of Mt. Dayman  Maneau Range,700,,9,49,58,149,16,58,-9.83277777777778,149.282777777778
+127,93,3,4.457,B.Petermannia,2644,1932,15.9,Petermannia,Herbarium,53767,0.0600688,1932,Solomon Islands,,South Solomon Islands,San Cristobal, Waimamura,Rain forest slopes,98,,10,26,59,161,52,0,-10.4497222222222,161.866666666667
+128,97,18,22.126,B.Petermannia,LAE50435,1970,15.7,Petermannia,Herbarium,312157,0.582637,1970,PNG,Southern,Oro,Sohe,Efogi,Forest slopes,1410,,9,10,0,147,35,0,-9.16666666666667,147.583333333333

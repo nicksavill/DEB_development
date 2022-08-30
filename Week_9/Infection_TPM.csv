@@ -1,0 +1,8 @@
+﻿Gene_ID,Pathway,Protein_stablility (minutes),Protein_levels(mg/L),Control_Flower,Infected_Flower
+NLR_1,NLR,30,23,34,45
+NLR_2,NLR,120,400,1,33
+JA_34,JA,120,2,3,321
+JA_13,JA,1440,56,5,45
+JA_5,JA,800,72,21,34
+Aux_3,Aux,5,12,4,72
+Aux_4,Aux,8,700,6,23
