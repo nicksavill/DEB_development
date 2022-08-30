@@ -24,7 +24,7 @@ Weekly quiz topics: coding questions
 ### Week 3: Data visualisation 1  
 Video will cover the 'introduction', class 1 will working through a guided example, class 2 will be for the students to explore their own choice of dataset
 Short video on good and bad plots with examples from Andrew Hudson (and any other I can find)  
-Class 5 Coding for producing a range of plot types, for data exploration.
+Class 5 Coding for producing a range of plot types, for data exploration.  ***Extra nugget - spatail plotting of data on maps? (if I can get it working...***)
 Class 6 Practise with a choice of datasets
 
 Weekly quiz topics: coding questions and plot interpretation
