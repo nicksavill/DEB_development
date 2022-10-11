@@ -32,28 +32,31 @@ Weekly quiz topics: coding questions and plot interpretation
 ### Week 4: Combining and subsetting data (and website scraping)
 Concat, merge and join.  subsetting by rows, columns and logical opperations.  Heirarchical structures.
 Video covering principals of merging dataset - inner and outer merges, keys.
-Class 7 
+Class 7 Several examples of downloading and combining data
 Class 8 Working with set questions from flavour leaders to download two datasets, combine them and plot a figure to answer a biological question.
 
 Weekly quiz  
 Mega quiz - coding  
 
 ### Week 5: Inferential statistics   
-Teaching the principals of testing variation between groups.  Coding to run bootstrapping tests. Describing commonly used approaches (t-tests).  Dependant variables, Linear regression
+Classes 9 and 10 Teaching the principals of testing variation between groups.  Coding to run bootstrapping tests. Describing commonly used approaches (t-tests).  Dependant variables, Linear regression
 Possibly mostly a reminder of Y1 work?
 Weekly quiz  
 Mega quiz - coding  
 
 ### Week 6: Multivariate analysis 1.  
 Introduction to the concepts of multivariate statistics.  
-Can we do this without matrix algebra?  
-Standardisation, co-variance, eigen values and vectors
+Heatmaps, co-varience, standardisation, distance metrics, clustering (hiearchical, kmeans menetions but maybe not worked through?
+Short ppt introduction
+Class 11 Example notebook working through an example - RNASeq data on terpene biosynthetic genes
+Class 12 Working with set questions from flavour leaders to produce a clustered heatmap to answer a biological question.
 Weekly quiz  
+https://github.com/gatsoulis/a_little_book_of_python_for_multivariate_analysis
 
 ### Week 7: Multivariate analysis 2.  
-Expanding using additional examples.  (distance metrics, kmeans and hiearchical clustering?)
-How to visualise and interpret multivariate relationships in Python.  Using examples to provide a framework.  
-https://github.com/gatsoulis/a_little_book_of_python_for_multivariate_analysis
+PCA analysis.  Short ppt introduction
+Class 13 Example notebook workign through an example (Brown trout genetics?)
+Class 14 Working with set questions from flavour leaders to produce a clustered heatmap to answer a biological question.
 Weekly quiz  
 
 ### Week 8: Starting work with the datasets  
