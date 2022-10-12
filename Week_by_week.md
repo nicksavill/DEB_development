@@ -24,14 +24,14 @@ Weekly quiz topics: coding questions
 ### Week 3: Data visualisation 1  
 Video will cover the 'introduction', class 1 will working through a guided example, class 2 will be for the students to explore their own choice of dataset
 Short video on good and bad plots with examples from Andrew Hudson (and any other I can find)  
-Class 5 Coding for producing a range of plot types, for data exploration.  ***Extra nugget - spatail plotting of data on maps? (if I can get it working...***)
+Class 5 Coding for producing a range of plot types, for data exploration.  ***Extra nugget - spatial plotting of data on maps? (if I can get it working...***).  Already a very long class.  Could move some colour choice/layout to week 9 - the poster prep?
 Class 6 Practise with a choice of datasets
 
 Weekly quiz topics: coding questions and plot interpretation
 
 ### Week 4: Combining and subsetting data (and website scraping)
 Concat, merge and join.  subsetting by rows, columns and logical opperations.  Heirarchical structures.
-Video covering principals of merging dataset - inner and outer merges, keys.
+Video and notebook covering principals of merging dataset - inner and outer merges, keys.
 Class 7 Several examples of downloading and combining data
 Class 8 Working with set questions from flavour leaders to download two datasets, combine them and plot a figure to answer a biological question.
 

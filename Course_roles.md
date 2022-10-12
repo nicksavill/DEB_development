@@ -1,7 +1,7 @@
-### CO Catherine? 
+### CO Catherine
 Arrange meetings, course admin, overview, design course with advice from team
 
-### Dep-CO Matthew
+### Dep-CO Open
 Keep up to date with course, ready to step into CO role when needed
 
 ### Face of the course Catherine (or someone much more comfortable with recording!)  Could split this role.
