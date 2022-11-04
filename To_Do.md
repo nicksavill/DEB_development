@@ -47,12 +47,12 @@ Classes:
     Class 6 Practise with different plot types on real data.  Drafted CK
 
 
-### Week 4: Combining data 
+### Week 4: Combining and transforming data 
 Video: 
     Covering principals of merging dataset - inner and outer merges, keys.  Drafted ppt presentation CK
 
 Classes:
-    Class 7 Several examples of downloading and combining data.  Drafted CK
+    Class 7 Several examples of downloading and combining data.  Looping over versus apply. Drafted CK
     Class 8 Working with set questions from flavour leaders to download two datasets, combine them and plot a figure to answer a biological question.
 
 
