@@ -29,9 +29,9 @@ Class 6 Practise with a choice of datasets
 
 Weekly quiz topics: coding questions and plot interpretation
 
-### Week 4: Combining and subsetting data (and website scraping)
+### Week 4: Combining and subsetting data
 Concat, merge and join.  subsetting by rows, columns and logical opperations.  Heirarchical structures.
-Video and notebook covering principals of merging dataset - inner and outer merges, keys.
+Principals of merging dataset - inner and outer merges, keys.
 Class 7 Several examples of downloading and combining data
 Class 8 Working with set questions from flavour leaders to download two datasets, combine them and plot a figure to answer a biological question.
 
@@ -54,8 +54,8 @@ Weekly quiz
 https://github.com/gatsoulis/a_little_book_of_python_for_multivariate_analysis
 
 ### Week 7: Multivariate analysis 2.  
-PCA analysis.  Short ppt introduction
-Class 13 Example notebook workign through an example (Brown trout genetics?)
+PCA analysis.  Short ppt introduction,
+Class 13 Example notebook working through an example (Brown trout genetics?). how to interpret the plots.
 Class 14 Working with set questions from flavour leaders to produce a clustered heatmap to answer a biological question.
 Weekly quiz  
 
