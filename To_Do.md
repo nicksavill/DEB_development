@@ -36,7 +36,7 @@ Video:
 
 Classes:
     Class 3 Tidy data, melt and pivot.  Drafted CK
-    Class 4 Freer form practice.  Drafted CK
+    Class 4 Group and transform.  Drafted CK
  
 #### Week 3: Data visualisation  
 Video: 
@@ -52,7 +52,7 @@ Video:
     Covering principals of merging dataset - inner and outer merges, keys.  Drafted ppt presentation CK
 
 Classes:
-    Class 7 Several examples of downloading and combining data.  Looping over versus apply. Drafted CK
+    Class 7 Downloading and combining data.  More practise with grouping, Looping over versus apply. Drafted CK
     Class 8 Working with set questions from flavour leaders to download two datasets, combine them and plot a figure to answer a biological question.
 
 
