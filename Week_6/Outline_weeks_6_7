@@ -1,0 +1,68 @@
+### Multivarient analysis  
+Exploring multi-dimensional datasets.
+
+Learning objectives for hte next two weeks:  
+Understand the basic principles of PCA
+Identify the similarities and patterns in the score plots
+Identify correlations and divergences among variables in the loading plots
+Understand the influence of each variable in the position of objects in the score plot.
+Understand and use the PCA
+
+
+https://pubs.acs.org/doi/10.1021/acs.jchemed.9b00924?cookieSet=1
+
+
+
+#### How to deal with  10s or hundreds of variables or hundreds of samples?
+Example of situations:
+    RNASeq analysis - expression levels for thousands of genes for tens of samples.  Which samples are most similar?
+    Habitat data - ground cover data for hundreds of species for hundreds of sites.  Are there distinct habitats?
+
+Linear regression allows you to draw a 'best fit' line through a 2-D data cloud.  What about a 100-D data cloud?
+Example with 3-D data and rotating to show the position of a line which 'explains' the most variation possible.
+We then pick an axis orthogonal to this which explains the next largest amount of variation in the system.
+    Need to get a good example here.
+    "rotates the data into a new set of axes, such that the first few axes reflect most of the variations within the data. By plotting the data on these axes, we can spot major underlying structures automatically. The value of each point, when rotated to a given axis, is called the principal component value."
+
+
+"Principal Components Analysis selects a new set of axes for the data
+These are selected in decreasing order of variance within the data
+They are also (of course) perpendicular to each other
+Hence the principal components are uncorrelated"
+
+###3D plot in Matplot
+
+from mpl_toolkits.mplot3d import axes3d
+import matplotlib.pyplot as plt
+
+fig = plt.figure()
+ax = fig.add_subplot(projection='3d')
+
+# load some test data for demonstration and plot a wireframe
+X, Y, Z = axes3d.get_test_data(0.1)
+ax.plot_wireframe(X, Y, Z, rstride=5, cstride=5)
+
+# rotate the axes and update
+for angle in range(0, 360):
+    ax.view_init(30, angle)
+    plt.draw()
+    plt.pause(.001)
+
+
+
+
+#### Scaling data
+
+
+#### Where is the variation in the data set?  
+
+
+#### Loadings
+"The application of PCA provides two main elements: the scores and loadings. (43) The loadings are the space constructed with the original variables, showing which variables are important to explain the trends in the grouping of samples."
+
+
+Possible data sets from dryad:
+
+Blue tit feeding: https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.jr48p
+
+Managing brown trout: https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.hx3ffbgf7
