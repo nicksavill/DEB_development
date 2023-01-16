@@ -19,7 +19,7 @@ Resources needed:
     Class notebooks all via discussion with Nick and Chris as Workshop leads.
 
 #### Week 1: Introduction to biological research questions and real-world datasets.  
-Lead for field work:  Patrick?
+Decided against 'field work', they will be mesuring finger length or height or head diameter in the fancy lecture theater
 Videos: 
     Introduction to course Catherine
     Introduction to data analysis in protien structure - Iain
@@ -49,7 +49,7 @@ Classes:
 
 ### Week 4: Combining and transforming data 
 Video: 
-    Covering principals of merging dataset - inner and outer merges, keys.  Drafted ppt presentation CK
+    Covering principals of merging datasets - inner and outer merges, keys.  Drafted ppt presentation CK
 
 Classes:
     Class 7 Downloading and combining data.  More practise with grouping, Looping over versus apply. Drafted CK
