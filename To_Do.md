@@ -20,82 +20,63 @@ Resources needed:
 
 #### Week 1: Introduction to biological research questions and real-world datasets.  
 Decided against 'field work', they will be mesuring finger length or height or head diameter in the fancy lecture theater
-Videos: 
-    Introduction to course Catherine
-    Introduction to data analysis in protien structure - Iain
-    Introduction to data analysis in transcriptomics - Edward
-    Introduction to data analysis in plant surveys - Catherine (or RBGE person I can ask)
-    Data sources and data protection - Edward?
-Classes:
-    Class 1 notebook Catherine - drafted
-    Class 2 plan Catherine - drafted
+Class 1 
+        Intro to course - Catherine Need to draft ppt.  Details of timetable, assessment, group work rules....
+        Short talks from Edward, Iain and Cathereine about how they use Data
+        Revision of Year1 - entering and presenting data notebook Catherine - drafted (need to re-do for in-lecture data collection)
+Class 2 
+    Reading in tricky files Drafted notebook CK
 
 #### Week 2: Data entry, filtering and formatting Data entry, cleaning and summarising.  
-Video: 
-    Filtering, cleaning and re-arranging data.  Drafted notebook CK
-
-Classes:
-    Class 3 Tidy data, melt and pivot.  Drafted CK
-    Class 4 Group and transform.  Drafted CK
+Class 3 
+    Filtering, cleaning and re-arranging data, Tidy data, melt and pivot.  Drafted CK
+Class 4 
+    Tidying horrible data. Drafted CK
  
 #### Week 3: Data visualisation  
-Video: 
-    Appropriate plots.  Drafted ppt presentation  CK
-
-Classes:
-    Class 5 Introducing Seaborn and how to control it.  Drafted  CK
-    Class 6 Practise with different plot types on real data.  Drafted CK
-
-
-### Week 4: Combining and transforming data 
-Video: 
-    Covering principals of merging datasets - inner and outer merges, keys.  Drafted ppt presentation CK
-
-Classes:
-    Class 7 Downloading and combining data.  More practise with grouping, Looping over versus apply. Drafted CK
-    Class 8 Working with set questions from flavour leaders to download two datasets, combine them and plot a figure to answer a biological question.
-
-
-### Week 5: Inferential statistics   
-Videos: 
-    Reviewing the basics of Inferential statistics
-
-Classes:
-    Class 9 notebook - Nick (to follow on from year 1 work)
-    Class 10 plan - Nick (to follow on from year 1 work)
-
-### Week 6 Multivariate analysis 1.  
-Videos: 
-    Heatmaps, co-varience, standardisation, distance metrics, clustering. Drafted ppt presentation CK
-
-Classes:
-    Class 11 Example notebook working through an example - RNASeq data on terpene biosynthetic genes CK
-    Class 12 Working with set questions from flavour leaders to produce a clustered heatmap to answer a biological question.
-
-### Week 7: Multivariate analysis 2.  
-Video: 
-    PCA analysis. Drafted ppt presentation
-
-Classes:
-    Class 13 Example notebook working through an example (Brown trout genetics?) Just started CK
-    Class 14 Working with set questions from flavour leaders to produce a clustered heatmap to answer a biological question.
-Weekly quiz  
+Class 5 
+    Appropriate plots.  Drafted ppt presentation  CK. 
+    Introducing Seaborn and how to control it.  Drafted notebook  CK
+Class 6 
+    Practise with different plot types on real data.  Drafted notebook CK
 
 ### Week 8: Starting work with the datasets  
-Videos: 
-    Hypothesis development and testing Catherine
+Class 7 
+    Individual classes for each flavour with background to datasets.  Dividing classes for group work Flavour leads
+Class 8 
+    Hypothesis development and testing  Drafted ppt presentation  CK. 
+    Group work on picking a question
 
-Classes:
-    Class 15 Flavour leads
-    Class 16 Flavour leads
+### Week 5: Combining and transforming data 
+Class 9 
+    Joining data sets.   Drafted notebook CK
+Class 10 
+    Working with Flvaour datasets
+
+### Week 6: Inferential statistics   
+Class 10 
+    Reviewing the basics of Inferential statistics notebook - Nick (to follow on from year 1 work)
+Class 11
+    Working with Flavour datasets
+
+### Week 6 Multivariate analysis 1.  
+Class 12 
+    Heatmaps, co-varience, standardisation, distance metrics, clustering. Drafted ppt presentation CK
+    Example notebook working through an example - RNASeq data on terpene biosynthetic genes CK
+Class 13 
+    Working with Flavour datasets
+
+### Week 7: Multivariate analysis 2.  
+Class 13 
+    PCA analysis. Drafted ppt presentation
+    Example notebook working through an example (Brown trout genetics?) Just started CK
+Class 14  Working with Flavour datasets
+Weekly quiz  
 
 ### Week 9: Principles of data presentation  
-Videos: 
-    Good posters.  Drafted ppt presentation, CK
-
-Classes:
-    Class 17 Working on poster
-    Class 18 Working on poster
+Class 17 
+    Good posters.  Drafted ppt presentation, CK; Working on poster
+Class 18 Working on poster
 
 ### Week 10: Poster day  
 All course team to mark
