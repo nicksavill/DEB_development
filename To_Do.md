@@ -11,12 +11,11 @@
     Charlotte Desvages MSc intro course
          https://github.com/pypr-2122/table-of-contents/
 
-### Divide up production of videos and notebooks
-Resources needed:
-    Video to go over pricipals and illustrate the commands.
-    Notebook to work through in first class of week
-    Outline of work for second class of week, where students produce their own notebooks
-    Class notebooks all via discussion with Nick and Chris as Workshop leads.
+#### Need to:
+ Check teaching space - will need 3 papralle session in Week 4
+ Polish notebooks
+ See how the notebooks run on Noteable
+ Test the course on potential demonstrators
 
 #### Week 1: Introduction to biological research questions and real-world datasets.  
 Decided against 'field work', they will be mesuring finger length or height or head diameter in the fancy lecture theater
