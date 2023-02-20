@@ -1,5 +1,20 @@
-### Expand on content for each week
-    Please add comments to the Week_by_week document
+### Content needed
+    Short talks from Edward, Iain and Catherine on using data in their work
+    
+    Class1 re-vamp - gathering data in the classroom.  Head diameter.  WORKING ON
+    Group designations - before first class?  Would be good to have them sticking in groups throughout.
+    How to report av diameters and marks on coding problem?  Just ask round class?
+    Get group name and av diamter, coding answers submitted via ??? under group name
+
+    Need a short revisionary quiz for session one. Topics?
+    Command line navigation
+
+
+    Class 2
+    Checked all ran.  Year column can only be called by location not name!!!
+    Move joinig df to the next class
+
+    Class 3
 
 ### Check set up for notebooks 
     Catherine to discuss with Nick and Graeme and enlist a BTO contact who knows the set up.
@@ -12,20 +27,20 @@
          https://github.com/pypr-2122/table-of-contents/
 
 #### Need to:
- Check teaching space - will need 3 papralle session in Week 4
+ Check teaching space - will need 3 parallel session in Week 4
  Polish notebooks
  See how the notebooks run on Noteable
  Test the course on potential demonstrators
 
 ### Divide up production of teaching material
 Resources needed:  
-    ppt to go over pricipals and illustrate the commands.  
+    ppt to go over principals and illustrate the commands.  
     Notebook to work through in first class of week. 
     Outline of work for second class of week, where students produce their own notebooks.  
     Class notebooks all via discussion with Nick and Chris as Workshop leads.  
     
 #### Assessement. 
-Need to establish markign rubric for poster adn guidelines for the analysis.  
+Need to establish marking rubric for poster and guidelines for the analysis.  
 (Do we assess the notebooks used to generate the figures?). 
 Need to add short coding problems (warm-ups?) to the beginning of each workshop.  
 Need to decide on longer coding problems for individual assessment?  
