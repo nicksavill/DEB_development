@@ -14,7 +14,21 @@
     Checked all ran.  Year column can only be called by location not name!!!
     Move joinig df to the next class
 
-    Class 3
+    Week 2 Class 3 All good, too long?.  Need a  'warm up'  quiz
+
+    Class 4 Need to add a 'playing with set' and short quiz.
+
+    Week 3 Class 5 all good
+
+    Class 6 need to add a warm up quiz
+
+    Week 4Class 7 Need to book 3 parallel rooms for biology talks
+
+    Class 8 Back to group work 
+
+    Week5 Class 9 Need warm up Quiz
+
+        Class 10 - Group work
 
 ### Check set up for notebooks 
     Catherine to discuss with Nick and Graeme and enlist a BTO contact who knows the set up.
@@ -68,7 +82,7 @@ Class 5
 Class 6 
     Practise with different plot types on real data.  Drafted notebook CK
 
-### Week 8: Starting work with the datasets  
+### Week 4: Starting work with the datasets  
 Class 7 
     Individual classes for each flavour with background to datasets.  Dividing classes for group work Flavour leads
 Class 8 
@@ -79,34 +93,36 @@ Class 8
 Class 9 
     Joining data sets.   Drafted notebook CK
 Class 10 
-    Working with Flvaour datasets
+    Working with Flavour datasets
 
-### Week 6: Inferential statistics   
+### Week 6: Rest week!
+
+### Week 7: Inferential statistics   
 Class 10 
     Reviewing the basics of Inferential statistics notebook - Nick (to follow on from year 1 work)
 Class 11
     Working with Flavour datasets
 
-### Week 6 Multivariate analysis 1.  
+### Week 8 Multivariate analysis 1.  
 Class 12 
     Heatmaps, co-varience, standardisation, distance metrics, clustering. Drafted ppt presentation CK
     Example notebook working through an example - RNASeq data on terpene biosynthetic genes CK
 Class 13 
     Working with Flavour datasets
 
-### Week 7: Multivariate analysis 2.  
+### Week 9: Multivariate analysis 2.  
 Class 13 
     PCA analysis. Drafted ppt presentation
-    Example notebook working through an example (Brown trout genetics?) Just started CK
+    Example notebook working through an example (soil and RNASeq) Drafted CK
 Class 14  Working with Flavour datasets
 Weekly quiz  
 
-### Week 9: Principles of data presentation  
+### Week 10: Principles of data presentation  
 Class 17 
     Good posters.  Drafted ppt presentation, CK; Working on poster
 Class 18 Working on poster
 
-### Week 10: Poster day  
+### Week 11: Poster day  
 All course team to mark
 
 
