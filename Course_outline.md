@@ -16,27 +16,28 @@ session where student groups are able to discuss with staff in charge of each da
 Week 5: Combining data  
 Different types of joins.  First workshop workign with the chosen data set
 
-Week 6: Revison of inferentail stats from first year and building on this
+Week 7: Revison of inferentail stats from first year and building on this
 Principals of testing variation between groups.  Coding to run bootstrapping tests. Describing commonly used approaches (t-tests).  
 
-Week 7: Multivariate analysis 1.  
+Week 8: Multivariate analysis 1.  
 Introduction to the concepts of multivariate statistics.  Clustering
 
-Week 8: Multivariate analysis 2.   
+Week 9: Multivariate analysis 2.   
 PCA analysis
 
-Week 9: Principles of data presentation  
+Week 10: Principles of data presentation  
 Coding and principles for communicating data
 
-Week 10: Poster day  
-An event for students to display and present their posters, for assessment by staff and peers.  Will be accompanied by food and drinks at the Bayes Institute.  
+Week 11: Clas test and Poster day  
+Class test in first session - Data analysis problem to be completed in 40 minutes.  Cleaning, joining datasets, generating a graph to answer a question.
+Friday calss - An event for students to display and present their posters, for assessment by staff and peers.  Will be accompanied by food and drinks at Murchiston house.  Mix of electronic pasters and printed  
 
 
 ### Assessment  
-Weekly online quizzes (total 25%)  
-Portfolio (15% marked exercise explaining how they have dealt with a problem?)  
-Coding problems / mega-quizzes (25%)  
-Poster 35% (assessed by staff (25%) and peers (10%))   
+Weekly quizzes at beginning of each class (total 20%)  
+Portfolio (15%)  
+Class test  (25%)  
+Poster 40% (assessed by staff (30%) and peers (10%))   
 
 ### Delivery  
 Recorded lectures (from course face) to introduce topics  

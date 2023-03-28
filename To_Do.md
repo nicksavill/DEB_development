@@ -22,13 +22,15 @@
 
     Class 6 need to add a warm up quiz
 
-    Week 4Class 7 Need to book 3 parallel rooms for biology talks
+    Week 4 Class 7 Need to book 3 parallel rooms for biology talks
 
     Class 8 Back to group work 
 
-    Week5 Class 9 Need warm up Quiz
+    Week Tuesday of Week5 Class 9 Need warm up Quiz
 
         Class 10 - Group work
+
+    Week 6 - week off!
 
 ### Check set up for notebooks 
     Catherine to discuss with Nick and Graeme and enlist a BTO contact who knows the set up.
