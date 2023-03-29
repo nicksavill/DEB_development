@@ -1,16 +1,13 @@
 ### Work needed by week
+    Week 1
     Class1 
-
     Intro to course - Catherine Need to draft ppt.  Details of timetable, assessment, group work rules....  
-
     Short talks from Edward, Iain and Catherine on using data in their work
-
     Gathering data in the classroom.  Head diameter.  Drafted
     Group designations - before first class?  Would be good to have them sticking in groups throughout.
     How to report av diameters and marks on coding problem?  Just ask round class?
     Get group name and av diamter, coding answers submitted via ??? under group name
-
-    Need a short revisionary quiz for session one. Topics?
+    Need a short revisionary quiz for session one. Topics?  NOT part of assessment
     Command line navigation
 
     Class 2
@@ -18,14 +15,14 @@
     Move joining df to the next class
 
     Week 2 
-    Class 3 All good, too long?.  Need a  'warm up'  quiz
+    Class 3 All good, too long?.  Need warm up Quiz
 
     Class 4 Need to add a 'playing with set' and short quiz.
 
     Week 3 
-    Class 5 need a  'warm up'  quiz
+    Class 5 Need warm up Quiz
 
-    Class 6 need to add a warm up quiz
+    Class 6 Need warm up Quiz
 
     Week 4 
     Class 7 Three data set talks, each 40 min with a 15 min break.  Alex Twyford has agreed to do the UK Flora one
@@ -35,17 +32,17 @@
     Week5 
     Class 9 Need warm up Quiz
 
-    Class 10 - Group work
+    Class 10 - Group work, Need warm up Quiz
 
-    Week 6 - week off!
+    Week 6 - Week off!
 
     Week 7 - Nick will sort (Many thanks!)
 
-    Week 8 - Andrea revising
+    Week 8 - Andrea revising, Need warm up Quiz
 
-    Week 9 - Andrea revising
+    Week 9 - Andrea revising, Need warm up Quiz
 
-    Week 10 - Drafted, but moslty poster-prep work
+    Week 10 - Drafted, but mostly poster-prep work, Need warm up Quiz
 
     Week 11 - Lecture room booked for 'Class test', Murchison lobby adn 2 teachign studieo booked for Poster day.  Need to sort poster boards, printing, catering
 
@@ -74,12 +71,10 @@ Need to decide on longer data analysis problems for individual work (weeks 1-5, 
 #### Course outline
 
 #### Week 1: Introduction to biological research questions and real-world datasets.  
-
 Class 1   
     Intro to course - Catherine Need to draft ppt.  Details of timetable, assessment, group work rules....  
     Short talks from Edward, Iain and Cathereine about how they use Data. 
     Revision of Year1 - entering and presenting data notebook 
-
 Class 2   
     Reading in tricky files
 
@@ -137,7 +132,7 @@ Class 17
 Class 18 
     Working on poster
 
-### Week 11: Poster day adn assessment 
+### Week 11: Poster day and assessment 
 Class 19  
     Class test - data anlaysis problem, 40 min to go form two messy datasets to a figure.   
 Class 20
