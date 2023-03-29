@@ -1,7 +1,11 @@
-### Content needed
+### Work needed by week
+    Class1 
+
+    Intro to course - Catherine Need to draft ppt.  Details of timetable, assessment, group work rules....  
+
     Short talks from Edward, Iain and Catherine on using data in their work
-    
-    Class1 re-vamp - gathering data in the classroom.  Head diameter.  WORKING ON
+
+    Gathering data in the classroom.  Head diameter.  Drafted
     Group designations - before first class?  Would be good to have them sticking in groups throughout.
     How to report av diameters and marks on coding problem?  Just ask round class?
     Get group name and av diamter, coding answers submitted via ??? under group name
@@ -9,28 +13,41 @@
     Need a short revisionary quiz for session one. Topics?
     Command line navigation
 
-
     Class 2
     Checked all ran.  Year column can only be called by location not name!!!
-    Move joinig df to the next class
+    Move joining df to the next class
 
-    Week 2 Class 3 All good, too long?.  Need a  'warm up'  quiz
+    Week 2 
+    Class 3 All good, too long?.  Need a  'warm up'  quiz
 
     Class 4 Need to add a 'playing with set' and short quiz.
 
-    Week 3 Class 5 all good
+    Week 3 
+    Class 5 need a  'warm up'  quiz
 
     Class 6 need to add a warm up quiz
 
-    Week 4 Class 7 Need to book 3 parallel rooms for biology talks
+    Week 4 
+    Class 7 Three data set talks, each 40 min with a 15 min break.  Alex Twyford has agreed to do the UK Flora one
 
-    Class 8 Back to group work 
+    Class 8 Back to group work, Need warm up Quiz
 
-    Week Tuesday of Week5 Class 9 Need warm up Quiz
+    Week5 
+    Class 9 Need warm up Quiz
 
-        Class 10 - Group work
+    Class 10 - Group work
 
     Week 6 - week off!
+
+    Week 7 - Nick will sort (Many thanks!)
+
+    Week 8 - Andrea revising
+
+    Week 9 - Andrea revising
+
+    Week 10 - Drafted, but moslty poster-prep work
+
+    Week 11 - Lecture room booked for 'Class test', Murchison lobby adn 2 teachign studieo booked for Poster day.  Need to sort poster boards, printing, catering
 
 ### Check set up for notebooks 
     Catherine to discuss with Nick and Graeme and enlist a BTO contact who knows the set up.
@@ -43,57 +60,52 @@
          https://github.com/pypr-2122/table-of-contents/
 
 #### Need to:
- Check teaching space - will need 3 parallel session in Week 4
- Polish notebooks
+ Polish notebooks - adding more for students to do and explore
  See how the notebooks run on Noteable
  Test the course on potential demonstrators
-
-### Divide up production of teaching material
-Resources needed:  
-    ppt to go over principals and illustrate the commands.  
-    Notebook to work through in first class of week. 
-    Outline of work for second class of week, where students produce their own notebooks.  
-    Class notebooks all via discussion with Nick and Chris as Workshop leads.  
     
 #### Assessement. 
 Need to establish marking rubric for poster and guidelines for the analysis.  
 (Do we assess the notebooks used to generate the figures?). 
 Need to add short coding problems (warm-ups?) to the beginning of each workshop.  
-Need to decide on longer coding problems for individual assessment?  
+Need to decide on longer data analysis problems for individual work (weeks 1-5, 5-9) and class test (week 11) 
 
+
+#### Course outline
 
 #### Week 1: Introduction to biological research questions and real-world datasets.  
-Decided against 'field work', they will be mesuring finger length or height or head diameter in the fancy lecture theater. 
+
 Class 1   
-        Intro to course - Catherine Need to draft ppt.  Details of timetable, assessment, group work rules....  
-        Short talks from Edward, Iain and Cathereine about how they use Data. 
-        Revision of Year1 - entering and presenting data notebook Catherine - drafted (need to re-do for in-lecture data collection). 
+    Intro to course - Catherine Need to draft ppt.  Details of timetable, assessment, group work rules....  
+    Short talks from Edward, Iain and Cathereine about how they use Data. 
+    Revision of Year1 - entering and presenting data notebook 
+
 Class 2   
-    Reading in tricky files Drafted notebook CK. 
+    Reading in tricky files
 
 #### Week 2: Data entry, filtering and formatting Data entry, cleaning and summarising.  
 Class 3 
-    Filtering, cleaning and re-arranging data, Tidy data, melt and pivot.  Drafted CK
+    Filtering, cleaning and re-arranging data, Tidy data, melt and pivot. 
 Class 4 
-    Tidying horrible data. Drafted CK
+    Tidying horrible data. 
  
 #### Week 3: Data visualisation  
 Class 5 
-    Appropriate plots.  Drafted ppt presentation  CK. 
-    Introducing Seaborn and how to control it.  Drafted notebook  CK
+    Appropriate plots.  
+    Introducing Seaborn and how to control it.  
 Class 6 
-    Practise with different plot types on real data.  Drafted notebook CK
+    Practise with different plot types on real data.  
 
 ### Week 4: Starting work with the datasets  
 Class 7 
-    Individual classes for each flavour with background to datasets.  Dividing classes for group work Flavour leads
+    Individual classes for each flavour with background to datasets.  
 Class 8 
-    Hypothesis development and testing  Drafted ppt presentation  CK. 
+    Hypothesis development and testing 
     Group work on picking a question
 
 ### Week 5: Combining and transforming data 
 Class 9 
-    Joining data sets.   Drafted notebook CK
+    Joining data sets.
 Class 10 
     Working with Flavour datasets
 
@@ -107,25 +119,29 @@ Class 11
 
 ### Week 8 Multivariate analysis 1.  
 Class 12 
-    Heatmaps, co-varience, standardisation, distance metrics, clustering. Drafted ppt presentation CK
-    Example notebook working through an example - RNASeq data on terpene biosynthetic genes CK
+    Heatmaps, co-varience, standardisation, distance metrics, clustering. 
+    Example notebook working through an example - RNASeq data on terpene biosynthetic genes 
 Class 13 
     Working with Flavour datasets
 
 ### Week 9: Multivariate analysis 2.  
 Class 13 
-    PCA analysis. Drafted ppt presentation
-    Example notebook working through an example (soil and RNASeq) Drafted CK
+    PCA analysis.
+    Example notebook working through an example (soil and RNASeq)
 Class 14  Working with Flavour datasets
-Weekly quiz  
+
 
 ### Week 10: Principles of data presentation  
 Class 17 
-    Good posters.  Drafted ppt presentation, CK; Working on poster
-Class 18 Working on poster
+    Good posters presentation and Working on poster
+Class 18 
+    Working on poster
 
-### Week 11: Poster day  
-All course team to mark
+### Week 11: Poster day adn assessment 
+Class 19  
+    Class test - data anlaysis problem, 40 min to go form two messy datasets to a figure.   
+Class 20
+    Poster day All course team to mark
 
 
 

@@ -14,9 +14,9 @@ Week 4: Introduction to the flavour datasets, hypothesis development and testing
 session where student groups are able to discuss with staff in charge of each dataset outcomes of their investigations.  Including a presentation from the “dataset coordinator” about the data and the advanced or wider implications/applications of the datasets 
 
 Week 5: Combining data  
-Different types of joins.  First workshop workign with the chosen data set
+Different types of joins.  First workshop working with the chosen data set
 
-Week 7: Revison of inferentail stats from first year and building on this
+Week 7: Revision of inferential stats from first year and building on this
 Principals of testing variation between groups.  Coding to run bootstrapping tests. Describing commonly used approaches (t-tests).  
 
 Week 8: Multivariate analysis 1.  
