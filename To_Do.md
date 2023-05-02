@@ -5,10 +5,10 @@
     Short talks from Edward, Iain and Catherine on using data in their work
     Gathering data in the classroom.  Head diameter.  Drafted
     Group designations - before first class?  Would be good to have them sticking in groups throughout.
-    How to report av diameters and marks on coding problem?  Just ask round class?
-    Get group name and av diamter, coding answers submitted via ??? under group name
-    Need a short revisionary quiz for session one. Topics?  NOT part of assessment
-    Command line navigation
+    How to report av diameters and marks on coding problem?  Demonstrators collect and enter into sharepoint
+    Get av diamter and coding answers submitted via wooclap
+    Need a short revisionary quiz for session one. Drafted - based on Variation and Discovery
+    Command line navigation ?  Not needed?
 
     Class 2
     Checked all ran.  Year column can only be called by location not name!!!
@@ -44,10 +44,13 @@
 
     Week 10 - Drafted, but mostly poster-prep work, Need warm up Quiz
 
-    Week 11 - Lecture room booked for 'Class test', Murchison lobby adn 2 teachign studieo booked for Poster day.  Need to sort poster boards, printing, catering
+    Week 11 - Lecture room booked for 'Class test', Murchison lobby and 2 teaching studios booked for Poster day.  Need to sort poster boards, printing, catering
+
+### Find best way to run warm up quizzes
+    Wooclap - have signed up, need to test
 
 ### Check set up for notebooks 
-    Catherine to discuss with Nick and Graeme and enlist a BTO contact who knows the set up.
+    Meeting with James Stix Wed 10th
 
 ### Look through other examples of courses
     See files uploaded by Graeme
@@ -56,16 +59,27 @@
     Charlotte Desvages MSc intro course
          https://github.com/pypr-2122/table-of-contents/
 
-#### Need to:
+#### Notebooks testing
  Polish notebooks - adding more for students to do and explore
  See how the notebooks run on Noteable
- Test the course on potential demonstrators
+ Test the course on potential demonstrators (RBGE students adn others?)
+
+#### More examples
+Add more small data analysis examples from papers
+Add pop gen clustering for week 8? (week 8 is pop genetics genes and evolution course
+Add phlyogenetic drawing example as an extra to week 10/11)?  https://github.com/taylor-lindsay/phylogenetics/blob/master/turtles/turtles.ipynb
+Add spatail plotting as an extra?
     
 #### Assessement. 
 Need to establish marking rubric for poster and guidelines for the analysis.  
 (Do we assess the notebooks used to generate the figures?). 
 Need to add short coding problems (warm-ups?) to the beginning of each workshop.  
 Need to decide on longer data analysis problems for individual work (weeks 1-5, 5-9) and class test (week 11) 
+
+#### Learn site
+Set up, need to populate....
+Need to add in all course team members.
+When to transfer course from github?
 
 
 #### Course outline
