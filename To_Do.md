@@ -15,7 +15,9 @@
     Move joining df to the next class
 
     Week 2 
-    Class 3 All good, too long?.  Need warm up Quiz
+    Class 3 All good, too long?.  
+    move 'Grouping by" elsewhere.  Bin the transcription data - or move to supp?
+    Need warm up Quiz
 
     Class 4 Need to add a 'playing with set' and short quiz.
 
