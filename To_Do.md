@@ -1,4 +1,18 @@
 ### Work needed by week
+
+Write a course guide....
+
+Set up LEARN site - weeks in reverse chronoloigcal order
+Add noteable and ppt for each week
+
+How to up load from home computer to noteable.
+
+
+Add info on Assessment
+    Poster
+    Class test - example
+    Workshop quizes - top 6 marks
+
     Week 1
     Class1 
     Intro to course - Catherine Need to draft ppt.  Details of timetable, assessment, group work rules....  
@@ -150,7 +164,7 @@ Class 18
 
 ### Week 11: Poster day and assessment 
 Class 19  
-    Class test - data anlaysis problem, 40 min to go form two messy datasets to a figure.   
+    Class test - data analysis problem, 40 min to go from two messy datasets to a figure.   
 Class 20
     Poster day All course team to mark
 
