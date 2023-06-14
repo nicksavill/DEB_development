@@ -137,23 +137,23 @@ Class 10
 ### Week 6: Rest week!
 
 ### Week 7: Inferential statistics   
-Class 10 
+Class 11 
     Reviewing the basics of Inferential statistics notebook - Nick (to follow on from year 1 work)
-Class 11
+Class 12
     Working with Flavour datasets
 
 ### Week 8 Multivariate analysis 1.  
-Class 12 
+Class 13 
     Heatmaps, co-varience, standardisation, distance metrics, clustering. 
     Example notebook working through an example - RNASeq data on terpene biosynthetic genes 
-Class 13 
+Class 14 
     Working with Flavour datasets
 
 ### Week 9: Multivariate analysis 2.  
-Class 13 
+Class 15 
     PCA analysis.
     Example notebook working through an example (soil and RNASeq)
-Class 14  Working with Flavour datasets
+Class 16  Working with Flavour datasets
 
 
 ### Week 10: Principles of data presentation  
