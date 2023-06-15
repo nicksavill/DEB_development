@@ -1,0 +1,9 @@
+# History files
+.Rhistory
+
+# Mac OS X directory listing
+.DS_store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
