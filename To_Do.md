@@ -4,72 +4,125 @@ Write a course guide....
 
 Set up LEARN site - weeks in reverse chronoloigcal order
 Add noteable and ppt for each week
-
-How to up load from home computer to noteable.
-
-
+Add cheatsheet to week one
+Add example data analysis excercise to weeks 4 and 8 (practise for class test)
 Add info on Assessment
-    Poster
-    Class test - example
-    Workshop quizes - top 6 marks
 
-    Week 1
-    Class1 
-    Intro to course - Catherine Need to draft ppt.  Details of timetable, assessment, group work rules....  
-    Short talks from Edward, Iain and Catherine on using data in their work
+
+Week 1
+    Class1 Intro to course
+    Catherine Drafted ppt.  Details of timetable, assessment, group work rules....  
+    Short talks (10 - 15 min) from Edward, Iain and Catherine on using data in their work
     Gathering data in the classroom.  Head diameter.  Drafted
-    Group designations - before first class?  Would be good to have them sticking in groups throughout.
-    How to report av diameters and marks on coding problem?  Demonstrators collect and enter into sharepoint
-    Get av diamter and coding answers submitted via wooclap
-    Need a short revisionary quiz for session one. Drafted - based on Variation and Discovery
-    Command line navigation ?  Not needed?
+    Quiz - 10 questions on wooclap.  Student to note own marks.
+    Groups for first class how they like.
+    Demonstrators collect marks and sizes and enter into sharepoint for full class data to put up at end of class.
 
-    Class 2
-    Checked all ran.  Year column can only be called by location not name!!!
-    Move joining df to the next class
+    Class 2 Reading in tricky files
+    Checked all ran.
+    Need warm up Quiz of 5 Q.
 
-    Week 2 
-    Class 3 All good, too long?.  
-    move 'Grouping by" elsewhere.  Bin the transcription data - or move to supp?
-    Need warm up Quiz
+Week 2 
+    Class 3 Data entry, filtering and formatting Data entry, cleaning and summarising
+    Catherine Drafted ppt.
+    Notebook drafted
+    Need warm up Quiz of 5 Q.
 
-    Class 4 Need to add a 'playing with set' and short quiz.
+    Class 4 Tidying horrible data.
+    Notebook drafted
+    Need warm up Quiz of 5 Q.
 
-    Week 3 
-    Class 5 Need warm up Quiz
+Week 3 
+    Class 5 Appropriate plots
+    Catherine Drafted ppt.
+    Notebook drafted  - Introducing Seaborn and how to control it.
+    Need warm up Quiz of 5 Q.
 
-    Class 6 Need warm up Quiz
+    Class 6 Practise with different plot types on real data.
+    Notebook drafted - Finches data
+    Need warm up Quiz of 5 Q.
 
-    Week 4 
-    Class 7 Three data set talks, each 40 min with a 15 min break.  Alex Twyford has agreed to do the UK Flora one
+Week 4 
+    Class 7 Three data set talks, each 40 min with a 15 min break.  
+    Alex Twyford has agreed to do the UK Flora one
+    Need reference aper for each data set and reading list of 5-10 papers using this kind of data for addressing biological questions.
+    Students pick first and second choice flavours at end of afternoon
+    Staff juggle to similar size groups for each flavour adn assign students to flavour with notes on LEARN.
 
-    Class 8 Back to group work, Need warm up Quiz
+    Class 8 Picking hypotheses Need Flavour leaders around
+    Catherine Drafted ppt
+    Flags for flavours, students to self-organise into groups of 5 within each flavour for poster work.
+    In groups students work through a notebook introducing them to the dataset.  
+    Notebooks end with a few suggested questions.
+    Students work in groups to develop realted sets of hypotheses
+    Each student explores their own hypothesis but discusses in group work.
+    Final poster is produced by the group, cherry picking which analyses to present.
 
-    Week5 
-    Class 9 Need warm up Quiz
+    Need example data analysis question (40 min)
 
-    Class 10 - Group work, Need warm up Quiz
+ Week 5 
+    Class 9 Combining and selecting data
+    Need warm up Quiz of 5 Q.
 
-    Week 6 - Week off!
+    Class 10 Project work Need Flavour leaders around
+    Need warm up Quiz of 5 Q.
 
-    Week 7 - Nick will sort (Many thanks!)
+Week 6 - Week off!
 
-    Week 8 - Andrea revising, Need warm up Quiz
+Week 7
+    Class 11 Inferential stats 
+    In process Nick
+    Need warm up Quiz of 5 Q.
 
-    Week 9 - Andrea revising, Need warm up Quiz
+    Class 12 Analysis survival skills Edward, and Project work  Need Flavour leaders around
+    Need warm up Quiz of 5 Q.
 
-    Week 10 - Drafted, but mostly poster-prep work, Need warm up Quiz
+Week 8
+    Class 13 MVA 
+    In process Andrea
+    Need warm up Quiz of 5 Q.
 
-    Week 11 - Lecture room booked for 'Class test', Murchison lobby and 2 teaching studios booked for Poster day.  Need to sort poster boards, printing, catering
+    Class 14 Project work  Need Flavour leaders around
+
+Week 9
+    Class 15 MVA 
+    In process Andrea
+    Need warm up Quiz of 5 Q.
+
+    Class 16 Project work  Need Flavour leaders around
+
+Week 10 
+    Class 17 Making a good poster
+    Catherine Drafted, but mostly poster-prep work
+
+    Class 18  Poster-prep Need Flavour leaders around
+
+Week 11 
+    Class 19  Class test in lecture theater
+    Data analysis problem, 40 min to go from two messy datasets to a figure.   
+    Lecture room booked for 'Class test'
+
+    Class 20 Poster day
+    Poster day All course team to mark
+    Murchison lobby and 2 teaching studios booked for Poster day.  Need to sort poster boards, printing, catering
+
+## Cheat Sheet
+    Provide pandas cheatsheet 
+    https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+    Add note on which class this was first used in.
 
 ### Find best way to run warm up quizzes
-    Wooclap - have signed up, need to test
+    LEARN, as need to be realted to student - assessed.  Make dependant on slides shown in class.
+    Wooclap for class 1 - have signed up, need to test
 
 ### Check set up for notebooks 
-    Meeting with James Stix Wed 10th
+    Met with James Stix, all looks good.
 
 ### Look through other examples of courses
-    See files uploaded by Graeme
+    Discovery:
+    https://github.com/graemecowan/Discovery1_2023.git
+    Variation:
+    https://github.com/nicksavill/Variation1.git
     Mine Cetinkaya-Rundel's course (she's left now)
         https://datasciencebox.org/
     Charlotte Desvages MSc intro course
@@ -78,95 +131,59 @@ Add info on Assessment
 #### Notebooks testing
  Polish notebooks - adding more for students to do and explore
  See how the notebooks run on Noteable
- Test the course on potential demonstrators (RBGE students adn others?)
+ Test the course on potential demonstrators
 
-#### More examples
+#### More examples if space?
 Add more small data analysis examples from papers
+Look out good examples for the class tests
 Add pop gen clustering for week 8? (week 8 is pop genetics genes and evolution course
 Add phlyogenetic drawing example as an extra to week 10/11)?  https://github.com/taylor-lindsay/phylogenetics/blob/master/turtles/turtles.ipynb
-Add spatail plotting as an extra?
-    
-#### Assessement. 
-Need to establish marking rubric for poster and guidelines for the analysis.  
-(Do we assess the notebooks used to generate the figures?). 
-Need to add short coding problems (warm-ups?) to the beginning of each workshop.  
-Need to decide on longer data analysis problems for individual work (weeks 1-5, 5-9) and class test (week 11) 
+Add spatial plotting as an extra?
+
+### Assessment 
+Weekly quizzes at beginning of each class (total 20%) 
+    Expect HIGH - is measuring attendance as well. Need to write 55 questions.  Top 7/11 SC get-out.  No extension.
+    Run via LEARN using slides in the class. Let them know which classes will have tests.
+
+Portfolio (15%) 
+    Expect HIGH most got >70 in first year. up to 40% will get the full 15% individual notebook plus mid-course reflection on hypothesis. 
+    Force Fail if fail to upload notebook (if possible)
+
+Class test (25%) 
+    Expect LOW.
+    Computer issues? Done on noteable – can switch to BTO laptops if needed
+    Re-sits? Summer work same time limit, online.
+    Force fail if miss (if possible)
+
+Poster 40% (assessed by staff (30%) and peers (10%)) 
+    Expect HIGH
+    Need to write Rubric for poster
+    Need to write guide to project
+
+    Shifts – 40 posters per shift.  2 staff each. 
+    Student marking online – assign 2 posters per student to mark and give feedback
+    Anonymised.  Median student mark counts for 10%
+    Peer weighting? WebPA
+
+It is quite possible all will get As and that is OK.
+Missing Portfolio or class test is a force fail. Otherwise need 40% total to pass course
 
 #### Learn site
-Set up, need to populate....
+Is set up, need to populate....
 Need to add in all course team members.
-When to transfer course from github?
+Maintained by DepCO?
 
-
-#### Course outline
-
-#### Week 1: Introduction to biological research questions and real-world datasets.  
-Class 1   
-    Intro to course - Catherine Need to draft ppt.  Details of timetable, assessment, group work rules....  
-    Short talks from Edward, Iain and Cathereine about how they use Data. 
-    Revision of Year1 - entering and presenting data notebook 
-Class 2   
-    Reading in tricky files
-
-#### Week 2: Data entry, filtering and formatting Data entry, cleaning and summarising.  
-Class 3 
-    Filtering, cleaning and re-arranging data, Tidy data, melt and pivot. 
-Class 4 
-    Tidying horrible data. 
- 
-#### Week 3: Data visualisation  
-Class 5 
-    Appropriate plots.  
-    Introducing Seaborn and how to control it.  
-Class 6 
-    Practise with different plot types on real data.  
-
-### Week 4: Starting work with the datasets  
-Class 7 
-    Individual classes for each flavour with background to datasets.  
-Class 8 
-    Hypothesis development and testing 
-    Group work on picking a question
-
-### Week 5: Combining and transforming data 
-Class 9 
-    Joining data sets.
-Class 10 
-    Working with Flavour datasets
-
-### Week 6: Rest week!
-
-### Week 7: Inferential statistics   
-Class 11 
-    Reviewing the basics of Inferential statistics notebook - Nick (to follow on from year 1 work)
-Class 12
-    Working with Flavour datasets
-
-### Week 8 Multivariate analysis 1.  
-Class 13 
-    Heatmaps, co-varience, standardisation, distance metrics, clustering. 
-    Example notebook working through an example - RNASeq data on terpene biosynthetic genes 
-Class 14 
-    Working with Flavour datasets
-
-### Week 9: Multivariate analysis 2.  
-Class 15 
-    PCA analysis.
-    Example notebook working through an example (soil and RNASeq)
-Class 16  Working with Flavour datasets
-
-
-### Week 10: Principles of data presentation  
-Class 17 
-    Good posters presentation and Working on poster
-Class 18 
-    Working on poster
-
-### Week 11: Poster day and assessment 
-Class 19  
-    Class test - data analysis problem, 40 min to go from two messy datasets to a figure.   
-Class 20
-    Poster day All course team to mark
-
+#### Portfolio
+To include questsions on  Bias and on Ethics (any material here send to Allison)
+To include justification of hypothesis picked
+To include uploading portfolio: 
+    Please add your Jupyter notebook containing the analysis of your flavour dataset, using python, pandas, and seaborn. Your notebook should:
+    say which flavour dataset you are using
+	state the specific analysis question you are addressing
+    load the relevant dataset and other needed data
+	clean the dataset as needed, briefly explaining the need for each cleaning/analysis step
+	show a figure that addresses your analysis question
+	evaluate how the analysis and figure addresses your question
+	run all the way through. (check by "restart kernel and run all cells" before uploading
 
 
