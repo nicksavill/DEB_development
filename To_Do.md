@@ -14,7 +14,7 @@ Week 1
     Catherine Drafted ppt.  Details of timetable, assessment, group work rules....  
     Short talks (10 - 15 min) from Edward, Iain and Catherine on using data in their work
     Gathering data in the classroom.  Head diameter.  Drafted
-    Quiz - 10 questions on wooclap.  Student to note own marks.
+    Quiz - 10 questions on wooclap.  Student to note own marks.  DONE
     Groups for first class how they like.
     Demonstrators collect marks and sizes and enter into sharepoint for full class data to put up at end of class.
 
