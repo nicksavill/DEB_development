@@ -1,7 +1,5 @@
 ### Course Outline
 
-Weeks 1-6 to focus on developing skills using toy data sets and prehaps a range of examples from the flavour datasets.  Weeks 7,8,9 to focus on using the dataset to test a hypothesis.  
-
 Week 1: Introduction to biological research questions and real-world datasets.  
 Entering data and quick stats/visualiation - revison of first year, then more detail on data downloading, reading in different file types and formatting
     pd.read_csv, pd.read_table, pd.read_excel
